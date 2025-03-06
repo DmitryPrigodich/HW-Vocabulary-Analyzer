@@ -1,3 +1,9 @@
+using HW_Vocabulary_Analyzer.Config;
+using HW_Vocabulary_Analyzer.Drivers;
+using Reqnroll;
+
+namespace HW_Vocabulary_Analyzer.Hooks;
+
 [Binding]
 public class PlaywrightHooks
 {

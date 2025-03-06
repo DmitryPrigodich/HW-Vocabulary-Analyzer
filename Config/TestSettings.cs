@@ -1,3 +1,7 @@
+using System.Text.Json;
+
+namespace HW_Vocabulary_Analyzer.Config;
+
 public class TestSettings
 {
     public string BaseUrl { get; set; }

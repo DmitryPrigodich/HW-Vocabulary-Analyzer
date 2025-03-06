@@ -1,32 +1,36 @@
+using HW_Vocabulary_Analyzer.Pages;
+using Microsoft.Playwright;
+using Reqnroll;
+
+namespace HW_Vocabulary_Analyzer.Steps;
+
 [Binding]
 public class LoginSteps
 {
-    private readonly ScenarioContext _context;
-    private readonly LoginPage _loginPage;
+    private readonly TestLoginPage _loginPage;
 
     public LoginSteps(ScenarioContext context)
     {
-        _context = context;
-        var page = (IPage)_context["Page"];
-        _loginPage = new LoginPage(page);
+        var page = (IPage)context["Page"];
+        _loginPage = new TestLoginPage (page);
     }
 
-    [And(@"user opens login page")]
+    [Given(@"user opens login page")]
     public async Task OpenLoginPage() => await _loginPage.Open();
 
-    [And(@"user logs in with credentials from ""(.*)""")]
+    [Given(@"user logs in with credentials from ""(.*)""")]
     public async Task LoginWithCsv(string filePath)
     {
-        var users = CsvHelper.ReadCsv<UserData>(filePath);
+        var users = Utils.CsvHelper.ReadCsv<UserData>(filePath);
         var user = users.First();
         await _loginPage.Login(user.Username, user.Password);
     }
 
-    [And(@"Another user logs in with credentials from ""(.*)""")]
-    public async Task LoginWithCsv(string relativePath)
+    [Given(@"Another user logs in with credentials from ""(.*)""")]
+    public async Task LoginWithCsv2(string relativePath)
     {
         var filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, relativePath);
-        var users = CsvHelper.ReadCsv<UserData>(filePath);
+        var users = Utils.CsvHelper.ReadCsv<UserData>(filePath);
 
         var user = users.First();
         //var admin = users.First(u => u.Role == "Admin");

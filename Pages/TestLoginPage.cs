@@ -1,3 +1,7 @@
+using Microsoft.Playwright;
+
+namespace HW_Vocabulary_Analyzer.Pages;
+
 public class TestLoginPage
 {
     private readonly IPage _page;

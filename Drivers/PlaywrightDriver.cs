@@ -1,3 +1,8 @@
+using HW_Vocabulary_Analyzer.Config;
+using Microsoft.Playwright;
+
+namespace HW_Vocabulary_Analyzer.Drivers;
+
 public class PlaywrightDriver
 {
     public IPage Page { get; private set; }
@@ -6,7 +11,7 @@ public class PlaywrightDriver
 
     public async Task Init(TestSettings settings)
     {
-        _playwright = await Microsoft.Playwright.Playwright.CreateAsync();
+        _playwright = await Playwright.CreateAsync();
         _browser = await _playwright[settings.Browser].LaunchAsync(new BrowserTypeLaunchOptions
         {
             Headless = settings.Headless
