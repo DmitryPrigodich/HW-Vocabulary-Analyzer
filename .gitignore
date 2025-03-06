@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+
+# VS
+.vscode/
+*.user
+*.vs
+*.suo
+
+# System
+*.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Reqnroll
+*.feature.cs
+
+# Playwright stuff
+pw-temp/
+playwright-report/
+test-results/
+
+# Secrets
+secrets.json

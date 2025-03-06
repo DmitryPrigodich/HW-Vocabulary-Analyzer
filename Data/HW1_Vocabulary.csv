@@ -1,0 +1,83 @@
+Word,Type,Context,Source,Derivative,Parts,Vowels,Consonants,Structure,Comments
+Albegiido,location,Albegiido valley,HW1-M,Albegiido,"hal,al,alb,be,e,gi,id,o","a,e,i,ii,o","l,b,g,d","YXXYXYYZ,XYXYYZ,XYZ",H'al-be-giid-o?
+Chak'm'Hot,culture,The winds of the desert seasonal superstorm,HW1-M,Chak'm'Hot,"cha,ak,am,ho,ot,","a,x,o","ch,k,m,h,t","XYZYZ,XYZ,XYXYZ",
+Chiisur,name,"Chiisur Paktu, Fleet Admiral",HW1-M,Chiisur,"Chi,is,ur","i,ii,u","ch,s,r",XYYZYZ,
+Cor,culture,ｫWrathｻ,HW1-O,Cor,"co,ko,or,cor,kor",o,"k,c,r",XYZ,Kor?
+Daiamid,culture,Kiithid gathering,HW1-M,Daiamid,"da,a,i,ai,am,id","a,i,ia,ya","d,y,m",XYYZYZ,IA as YA? IO as YO?
+Diirvaas,culture,Ancient discipline of sword-dancing,HW1-O,Diirvaas,"di,ir,va,as","i,a,ii,aa,","d,r,v,s",XYYZXYYZ,
+Doine,kiith,"Per Doine, the radical",HW1-M,Doine,"do, in, e","o,i,e","d,n",XYYZ,Not clear how to spell it. DO'-IN?
+Ferin-Sha,culture,"""Dancing Ground""",HW1-M,Ferin,"fe,er,in","e,i","f,r,n",XYZYZ,
+Ferin-Sha,culture,"""Dancing Ground""",HW1-M,Sha,"sha,a",a,sh,XY,
+Ferriil,kiith,Kiith - major religious,HW1-M,Ferriil,"fe,er,ri,il","e,i,ii","f,r,rr,l","XYZXYYZ,XYZ,XYYZ",
+Fiirkan,biom,A small desert hunting bird,HW1-O,Fiirkan,"fi,ir,irk,ka,an","i,ii,a","f,r,k,n","XYYZ,XYZ,XYYZXYZ,XYYZYZ",
+Fliir,name,Fliir S男et,HW1-M,Fliir,"f',fli,li,ir","i,ii","f,l,r",XYYZ,F'liir?
+Fushai,ship,Taiidan Cloak Generator,HW1-O,Fushai,"fu,ush,a,ai","u,a,i","f,sh",XYZ,
+Gaalsien,kiith,Kiith - major religious,HW1-M,Gaalsien,"ga,al,si,en","a,aa,i,e","g,l,s,n","XYYZ,XYYZXYYZ",
+Gar,name,"Gar Naabal, the engineer",HW1-M,Gar,"ga,ar",a,"g,r",XYZ,
+Gritiidim,culture,ｫSand peopleｻ,HW1-M,Gritiidim,"gri,it,ti,id,im","i,ii","g,r,t,d,m","XYXYYZYZ,XYZYYXYZ,XY,XYZ,XYYZ,XYYZYZ,XYXYYZ",Parallel to Siidim
+Haarsuk,planet,Jovian of Kharak System,HW1-M,Haarsuk,"Ha,ar,su,uk","a,aa,u","h,r,s,k","XYYZ, XYZ,XYYZXYZ",
+Heeshk,ship,Taiidan support frigate,HW1-O,Heeshk,"He,eshk","e,ee","h,sh,k",XYYZ,
+Hiigara,planet,ｫOur Homeｻ,HW1-G,Hiigara,"hi,hii,ig,ga,ar,a","i,ii,a","h,g,r",XYXYZ,
+Hraal,kiith,Kiith - industrial,HW1-M,Hraal,"ha,hra,ra,al","a,aa","h,r,l","XYXYYZ,XYYZ",H'raal could be an option
+Hunon,location,South Pole Mountains,HW1-M,Hunon,"hu,un,no,on","u,o","h,n,n","XYZYZ,XYXYZ",
+Huur,name,Huur S男et,HW1-M,Huur,"hu,ur","u,uu","h,r",XYYZ,
+Ifriit,name,Ifriit Naabal,HW1-M,Ifriit,"if,ri,it","i,ii","h,r,t","XYZXYYZ,XYZ,YZ,XYYZ",H'ifriit? H'if-Riit? Muad'Dib?
+Jakuul,deity,A deity,HW1-M,Jakuul,"ja,ku,ul","a,u,uu","j,k,l",XYXYYZ,
+Jaraci,kiith,"Leykab Jaraci, the astronomer",HW1-M,Jaraki,"ja,ar,ra,ak,i, rac","a,a,i","j,r,k","XYXYZ,XYZYZ",This C asks for K - Jaraki
+Jora,name,Jora Manaan,HW1-M,Jora,"jo,or,a","o,a","j,r",XYZ,
+Kaark,ship,Taiidan bomber,HW1-O,Kaark,"ka,ark","a,aa","k,r,k",XYYZ,
+Karan,name,"Know her, love her ｩ",HW1-G,Karan,"ka,ar,an",a,"k,r,n",XYZYZ,
+Khar,ship,Ship-name starting part,HW1-G,Khar,"kha,ar",a,"kh,r",XYZ,
+Khar-Selim,ship,The ship that met Turanics,HW1-G,Selim,"se,el,im","e,i","s,l,m",XYZYZ,
+Khar-Toba,ship,"Exile ship, a base for Kharak's First city",HW1-G,Toba,"to,ob,a","o,a","t,b",XYZ,
+Kharak,planet,The Planet,HW1-G,Kharak,"kha,ar,ak",a,"kh,r,k",XYZYZ,
+Kiith,culture,Family/Clan,HW1-G,Kiith,"ki,ith","i,ii","k,th",XYYZ,
+Kim,name,"Kim Paktu-Sa, grandson of Majiir",HW1-M,Kim,"ki,im",i,"k,m",XYZ,
+Koraal,ship,Taiidan Gravwell Generator,HW1-O,Koraal,"ko,ra,al","o,a,aa","k,r,l",XYXYYZ,
+Koshiir-Ra,deity,A god of protection,HW1-O,Koshiir,"ko,shi,ir","o,i,ii","k,sh,r",XYXYYZ,
+Koshiir-Ra,deity,A god of protection,HW1-O,Ra,"ra,a",a,r,XY,
+Kriil,name,Kriil S男et,HW1-M,Kriil,"k',kri,ri,il",II,"k,r,l",XYYZ,K'riil?
+Kudaark,biom,a large burrower from the northern forests,HW1-O,Kudaark,"ku,da,ark","u,a,aa","k,d,r,k",XYXYYZ,
+Kushan,people,The exiles,HW1-G,Kushan,"ku,ush,sha,an","u,a","k,sh,n","XYXYZ,XYZYZ",
+Leykab,name,Leykab Jaraci,HW1-M,Leykab,"le,ei,i,ik,leyk,ka,ab","e,i,a","l,y,k,b","XYYZYZ,XYXYZ",
+Liam,name,Liam Gaalsien,HW1-M,Liam,"li,am","i,a","l,m",XYYZ,
+Liir-Hra,kiith,Space kiith,HW1-M,Liir,"li,ir","i,ii","l,r",XYYZ,
+Liir-Hra,kiith,Space kiith,HW1-M,Hra,"h',ra,hra",a,"h,r","XY,XYXY",H'raal -> H'ra? doesn't look like
+Magann,kiith,"Rei Magann, the tester",HW1-M,Magann,"ma,ag,ga,ann",a,"m,g,n,nn","XYXYZ,XYZYZ",
+Majiir,name,Majiir Paktu,HW1-M,Majiir,"ma,ji,ir","a,i,ii","m,j,r",XYXYYZ,
+Manaan,kiith,Trading kiith,HW1-M,Manaan,"ma,na,an","a,aa","m,n,n",XYXYYZ,
+Mevath,name,Mevath Sagald,HW1-M,Mevath,"me,ev,va,ath","e,a","m,v,th","XYZYZ,XYXYZ",
+Miirpat,name,Miirpat Gaalsien-Sa,HW1-M,Miirpat,"mi,ir,pa,at","i,ii,a","m,r,p,t","XYYZXYZ,XYYZ,XYZ",
+Naabal,kiith,Engineering kiith,HW1-M,Naabal,"na,ab,al","aa,a","n,b,l",XYYZYZ,
+Paktu,kiith,Sea kiith,HW1-M,Paktu,"pa,ak,tu","a,u,uu","p,k,t",XYZXY,
+Per,name,Per Doine,HW1-M,Per,"pe,er",e,"p,r",XYZ,
+Qwaar-Jet,deity,Deity of pain and enslavement,HW1-O,Qwaar,"k',kva,va,qwa,ar","a,aa","q,w,k,v,r",XYYZ,"Q'waar, K'waar,K'vaar,kua'ar"
+Qwaar-Jet,deity,Deity of pain and enslavement,HW1-O,Jet,"je,et",e,"j,t",XYZ,
+Raachok,tech,Hurled leaded darts,HW1-O,Raachok,"ra,ach,ok","a,aa,o","r,ch,k",XYYZYZ,Burning spears? Small spear? Ra-Ach-ok?
+Rei,name,Rei Magann,HW1-M,Rei,"re,ei,i","e,i",r,XY,
+Riif,kiith,Admiral,HW1-M,Riif,"ri,if","i,ii","r,f",XYYZ,
+S男et,kiith,Science kiith,HW1-G,S'jet,"s',je,et",e,"s,j,t",XYXYZ,
+Sa,culture,Leader,HW1-M,Sa,sa,a,s,XY,
+Saarkin-Cho,ship,Taiidan carrier,HW1-O,Saarkin,"sa,ar,ki,ark,in","a,aa,i","s,r,k,n","XYYZXYZ,XYYZYZ",
+Saarkin-Cho,ship,Taiidan carrier,HW1-O,Cho,cho,o,ch,XY,
+Sagald,kiith,"Mevath Sagald, the archeologist",HW1-M,Sagald,"sa,ag,ga,ald",a,"s,g,l,d","XYXYZ,XYZYZ",Sagal'd?
+Saju-Ka,city,Gaalsien city,HW1-M,Saju,"sa,ju","a,u","s,j",XYXY,
+Saju-Ka,city,Gaalsien city,HW1-M,Ka,"ka,a",a,k,XY,
+Sajuuk,deity,The God,HW1-M,Sajuuk,"sa,ju,uk","a,u,uu","s,j,k",XYXYYZ,
+Seejur,tech,An ancient combat shield,HW1-M,Seejur,"se,ej,ju,ur","e,ee,u,uu","s,j,r","XYYZYZ,XYXYYZ","It asks for ｫSejuurｻ, with Seju being a root"
+Siidim,kiith,ｫStar Peopleｻ kiith,HW1-M,Siidim,"si,id,di,im","i,ii","s,d,m","XYYZYZ,XYXYYZ",
+Siim Salla,ship,Taiidan,HW1-O,Siim,"si,im","i,ii","s,m",XYYZ,
+Siim Salla,ship,Taiidan,HW1-O,Salla,"sa,al,all,la,a",a,"s,l,ll","XYZ,XY",
+Silumiin,location,Rocket launch site,HW1-M,Silumiin,"si,lu,mi,in","i,ii,u","s,l,m,n",XYXYXYYZ,
+Skaal-Tel,biom,The Skaal animal,HW1-O,Skaal,"s',ska,ka,al","a,aa","s,k,l","XYYZ,XYXYYZ",S'kaal
+Skaal-Tel,biom,The male of Skaal species,HW1-O,Tel,"te,el",e,"t,l",XYZ,
+Skaal-Fal,biom,The female of Skaal species,HW1-O,Fal,"fa,al",a,"f,l,r",XYZ,"Fa or Fal, there were different options"
+Soban,kiith,"Military kiith, ｫGrey Brotherhoodｻ",HW1-M,Soban,"so,ob,ba,an","o,a","s,b,n","XYZYZ,XYXYZ",
+Somtaaw,kiith,Mining kiith,HW1-M,Somtaaw,"so,om,ta,aw","o,a,aa","s,m,t,w",XYZXYYZ,
+Taiidan,people,The Empire,HW1-G,Taiidan,"ta,ai,i,id,an","a,i,ii","t,d,n",XYYYZYZ,"Well, it should be alien word"
+Tiifal,ship,Taiidan defence field frigate,HW1-O,Tiifal,"ti,if,fa,al","i,ii,a","t,f,l","XYYZYZ,XYXYZ",
+Tiir,city,Naabal capitol,HW1-M,Tiir,"ti,ir","i,ii","t,r",XYYZ,
+Tiirshak,name,S男etties famous scholar,HW1-O,Tiirshak,"ti,ir,sha,ak","a,i,ii","t,r,sh,k",XYYZXYZ,
+Triikor,biom,Kharakian predator cat,HW1-O,Triikor,"t',tri,ri,ik,ko,or","i,ii,o","t,r,k,r","XYXYZ,XYYZYZ",
+Variis,ship,Taiidan proximity sensor,HW1-O,Variis,"va,ri,is","a,i,ii","v,r,s",XYXYYZ,
+Wodaan,ship,Taiidan minelayer corvette,HW1-O,Wodaan,"wo,vo,da,an","a,aa,o","v,w,d,n",XYXYYZ,Vo-daan? Hodaan?
