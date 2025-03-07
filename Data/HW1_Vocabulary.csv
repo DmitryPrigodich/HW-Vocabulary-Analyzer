@@ -1,7 +1,7 @@
 Word,Type,Context,Source,Derivative,Parts,Vowels,Consonants,Structure,Comments
-Albegiido,location,Albegiido valley,HW1-M,Albegiido,"hal,al,alb,be,e,gi,id,o","a,e,i,ii,o","l,b,g,d","YXXYXYYZ,XYXYYZ,XYZ",H'al-be-giid-o?
+Albegiido,location,Albegiido valley,HW1-M,Albegiido,"hal,al,alb,be,e,gi,id,o","a,e,i,ii,o","l,b,g,d","YZXYXYYZ,XYZXYXYYZ,XYZ, YZ,XYXYYZ,XYYZ",H'al-be-giid-o?
 Chak'm'Hot,culture,The winds of the desert seasonal superstorm,HW1-M,Chak'm'Hot,"cha,ak,am,ho,ot,","a,x,o","ch,k,m,h,t","XYZYZ,XYZ,XYXYZ",
-Chiisur,name,"Chiisur Paktu, Fleet Admiral",HW1-M,Chiisur,"Chi,is,ur","i,ii,u","ch,s,r",XYYZYZ,
+Chiisur,name,"Chiisur Paktu, Fleet Admiral",HW1-M,Chiisur,"chi,is,ur","i,ii,u","ch,s,r",XYYZYZ,
 Cor,culture,«Wrath»,HW1-O,Cor,"co,ko,or,cor,kor",o,"k,c,r",XYZ,Kor?
 Daiamid,culture,Kiithid gathering,HW1-M,Daiamid,"da,a,i,ai,am,id","a,i,ia,ya","d,y,m",XYYZYZ,IA as YA? IO as YO?
 Diirvaas,culture,Ancient discipline of sword-dancing,HW1-O,Diirvaas,"di,ir,va,as","i,a,ii,aa,","d,r,v,s",XYYZXYYZ,
@@ -23,7 +23,7 @@ Hunon,location,South Pole Mountains,HW1-M,Hunon,"hu,un,no,on","u,o","h,n,n","XYZ
 Huur,name,Huur S’jet,HW1-M,Huur,"hu,ur","u,uu","h,r",XYYZ,
 Ifriit,name,Ifriit Naabal,HW1-M,Ifriit,"if,ri,it","i,ii","h,r,t","XYZXYYZ,XYZ,YZ,XYYZ",H'ifriit? H'if-Riit? Muad'Dib?
 Jakuul,deity,A deity,HW1-M,Jakuul,"ja,ku,ul","a,u,uu","j,k,l",XYXYYZ,
-Jaraci,kiith,"Leykab Jaraci, the astronomer",HW1-M,Jaraki,"ja,ar,ra,ak,i, rac","a,a,i","j,r,k","XYXYZ,XYZYZ",This C asks for K - Jaraki
+Jaraci,kiith,"Leykab Jaraci, the astronomer",HW1-M,Jaraki,"ja,ar,ra,ak,i,rac,ac","a,a,i","j,r,k","XYXYZ,XYZYZ",This C asks for K - Jaraki
 Jora,name,Jora Manaan,HW1-M,Jora,"jo,or,a","o,a","j,r",XYZ,
 Kaark,ship,Taiidan bomber,HW1-O,Kaark,"ka,ark","a,aa","k,r,k",XYYZ,
 Karan,name,"Know her, love her ©",HW1-G,Karan,"ka,ar,an",a,"k,r,n",XYZYZ,
