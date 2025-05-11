@@ -1,0 +1,98 @@
+Word,Type,Origin,Source,Ending,Parts,Vowels,Consonants,Structure,Comments
+Aaid,temple,"Kharak location, Shimmering Path temple, Ruun-Aaid",HWC-G,,"ha, aa, id","a,aa,i",d,"XYYYZ,XYYZ",H'Aaid?
+Aart,name,"Person, Aart Somtaaw, Sentinel project engineer",HWC-M,,"ha,aa,art","a,aa","r,t",XYYZ,Double AA? Aar't - A-ar-'t? H'Aar't?
+Aiowa,location,"Star System, Aiowa, infected Bentusi suicide location",HWC-G,a,"ha,xi,ow","a,i,o,io,yo",w,XYYZ,"Aiowa state? Mb, like Kyori - Ayowa? Kiori - Aiova? K'yori - A'yova?"
+Arban,name,"Person, Arban Hraal, first Liir-Hra-Sa",HWC-O,,"ha,ar,arb,ba,an",a,"r,b,n","XYZ-XYZ,XYZ-YZ",Ar'ban? - A-r-'b-an? H'ar-ban? H'Ar'ban?
+Asaam,city,"City of Hiigara, Asaam Kiith-Sid, the capitol",HWC-M,,"ha,sa,am","a,aa","s,m",XY-XYYZ,A'saam? -> A'kadath? -> H'A'saam?
+Baar,temple,"Kharak location, Shimmering Path temple, Baar-Ett",HWC-G,,"ba,ar","a,aa","b,r",XYYZ,
+Balhi,temple,"Kharak location, Shimmering Path temple, Gaar-Balhi",HWC-G,i,"ba,al,alh,i,hi","a,i","b,l,h","XYZ,XYZ-XY",Bal-hi? Bal'h-i? Hibaal? Hiibaal-hiibala? :)
+Bushan,ship,"KSN ship, Bushan-Re, destroyer",HWC-G,,"bu, ush, xsh, sha, an","u,a","b,sh,n","XY-XYZ,XYZ-YZ",
+Dava,name,"Person, Dava Tambuur, a lost wife of last remaining Tambuur, Iifrit",HWC-M,,"da,av,va,a","a,a","d,v",XYZ,
+Drun,temple,"Kharak location, Shimmering Path temple, Drun-Kyori",HWC-G,,"dru,un",u,"d,r,n",XYZ,Dran?
+Eh,temple,"Kharak location, Shimmering Path temple, Eh-Ghoan",HWC-G,,"he,eh",e,h,XYZ,
+Eheb,temple,"Kharak location, Shimmering Path temple, Eheb-San",HWC-G,,"he,eh,eb",e,"h,b",XYZ-YZ,
+Ett,temple,"Kharak location, Shimmering Path temple, Baar-Ett",HWC-G,,"he, et,ett",e,"t,tt",XYZ,H'Ett? 
+Faal,temple,"Kharak location, Shimmering Path temple, Faal-Corum, ""Silent Wayfarer""",HWC-G,,"fa,al","a,aa","f,l",XYYZ,
+Farr,location,"Star System, Coruc-Farr, Naar directive first time usage",HWC-M,,"fa,ar,arr",a,"f,r,rr",XYZ,
+Feng,temple,"Kharak location, Shimmering Path temple, Feng-Yuun",HWC-G,,"fe,en,xng",e,"f,n,g",XYZ,Fen?
+Frein,city,"City of Kharak, Frein, Southern Pole",HWC-O,,"fre,in","e,i","f,r,n",XYYZ,Fre-in
+Gaal,temple,"Kharak location, Shimmering Path temple, Gaal-Ten",HWC-G,,"ga,al","a,aa","g,l",XYYZ,
+Gaar,temple,"Kharak location, Shimmering Path temple, Gaar-Balhi",HWC-G,,"ga,ar","a,aa","g,r",XYYZ,
+Ghoan,temple,"Kharak location, Shimmering Path temple, Eh-Ghoan",HWC-G,,"gho,an","o,a","gh,n",XYYZ,
+Gideo,city,"City of Kharak, Gydeo, of Somtaaw",HWC-M,o,"gi,id,de","e,o","g,d",XY-XY,Gideo? Gaideo? - Gideon? Gi-De-on? Gideor? Name lost in time
+Gig,temple,"Kharak location, Shimmering Path temple, Teer-Gig",HWC-G,,"gi,ig",i,g,XYZ,
+Gren,ship,"KSN ship, Gren-Shto, Hraali carrier",HWC-O,,"gre,en",e,"g,r,n",XYZ,
+Hameln,city,"City of Kharak, Hameln, of Somtaaw",HWC-M,,"ha,am,me,el,eln","a,e","h,m,l,n","XY-XYZ,XYZ-YZ",Ha-Mel-in? Hamel'n? Hameleon? O_o
+Jiin,location,"Kharak location, the highest mountain ""The roof of the World""",HWC-M,,"ji,in","i,ii","j,n",XYYZ,
+Kaal,ship,"KSN ship, Caal-Shto, Manaani carrier",HWC-G,,"ka,al","a,aa","k,l",XYYZ,
+Kaalel,kiith,"Kiith, of spies, assassins and artists",HWC-G,,"ka,al,el","a,aa,e","k,l",XYYZ-YZ,
+Kaaliburnos,culture,"Kushan myth, Caaliburnos, Soban mythical sword",HWC-M,,"ka,al,bu,ur,no,os,urn,li","a,aa,i,u,o","k,l,b,r,n,s",XYYZ-XYZ-XYZ,
+Kadiir,location,"Galactic location, Kadiir Nebula, with escorting Caal-Shto",HWC-G,,"ka,di,ir","a,i,ii","k,d,r",XY-XYYZ,
+Kah,temple,"Kharak location, Shimmering Path temple, Veer-Kah",HWC-G,,"ka,kha,ah",a,"k,h",XYZ,
+Kar,name,"Culture, a male version of name Karan",HWC-O,,"ka,ar",a,"k,r",XYZ,
+Kasaar,location,"Kharak location, road and desert near Somtaaw's Khontala",HWC-M,,"ka,sa,ar","a,aa","k,s,r",XY-XYYZ,
+Khontala,location,"Kharak location, Khontala mountains",HWC-M,,"kha,on,ta,al",a,"t,l",XYZ-XYZ,
+Kiori,temple,"Kharak location, Shimmering Path temple, Drun-Kyori
+Galactic location, Kyori sector, Turanic Raider Location",HWC-G,i,"ki,or","i,o","k,r",XYYZ,
+Klah,temple,"Kharak location, Shimmering Path temple, Shin-Clah",HWC-G,,"kla,ah",a,"k,l,h",XYZ,
+Klii,temple,"Kharak location, Shimmering Path temple, Clee-San, ""Truth Seeker""",HWC-G,i,kli,"i,ii","k,l",XY,
+Koi,temple,"Kharak location, Shimmering Path temple, Toet-Coy",HWC-G,i,"ko,xi","o,i",k,XY,
+Kona,name,"Person, Kona Hraal",HWC-O,a,"ko,on","o,a","k,n",XYZ,
+Koor,temple,"Kharak location, Shimmering Path temple, Coor-Lan",HWC-M,,"ko,or","o,oo","k,r",XYYZ,
+Koreth,location,"Galactic location, Taiidan sector w. Fornax & Gozan Star Systems",HWC-G,,"ko,or,re,xth","o,e","k,r,th","XY-XYZ,XYZ-YZ",
+Koruk,location,"Star System, Coruc-Farr, Naar directive first time usage
+Star System, Coruc-Tel, initial location of Clee-San",HWC-M,,"ko,or,uk","o,u","k,r",XYZ-YZ,
+Korum,temple,"Kharak location, Shimmering Path temple, Faal-Corum, ""Silent Wayfarer""
+Kharak location, Shimmering Path temple, Naab-Corum",HWC-G,,"ko,or,ru,um","o,u","k,r,m",XYZ-YZ,
+Kuun,temple,"Kharak location, Shimmering Path temple, Kuun-Lan, ""Purifying Flame""",HWC-G,,"ku,un","u,uu","k,n",XYYZ,
+Kuura,name,"Person, Kuura Somtaaw-Sa, that made somtaaw miners",HWC-M,a,"ku,ur","u,uu,a","k,r",XYYZ,
+Lan,temple,"Kharak location, Shimmering Path temple, Kuun-Lan, ""Purifying Flame""
+Kharak location, Shimmering Path temple, Coor-Lan",HWC-G,,"la,an",a,"l,n",XYZ,
+Lii,temple,"Kharak location, Shimmering Path temple, Thul-Lee",HWC-G,,lii,"i,ii",l,XY,
+Liir,name,"Person, Liir Kaalel-Sa, that made Kaalel out of S'jet vassalage",HWC-O,,"li,ir","i,ii","l,r",XYYZ,
+Lungma,location,"Kharak location, the highest mountain ""The roof of the World""",HWC-M,,"lu,un,ung,ma","u,a","l,n,g,ng,m",XYZ-XY,"Lung-Ma, Lung-Ma, Luun-Ma - Somtaaw dialect"
+Maach,tech,"Tech, Maach-nar, Somtaaw Laser Projection System",HWC-G,,"ma,ach","a,aa","m,ch",XYYZ,How to spell that ACH — MaaCH? Maak? Maah?
+Maal,temple,"Kharak location, Shimmering Path temple, Maal-Nitz",HWC-G,,"ma,al","a,aa","m,l",XYYZ,
+Maan,temple,"Kharak location, Shimmering Path temple, Vhenk-Maan",HWC-G,,"ma,an","a,aa","m,n",XYYZ,
+Mholah,temple,"Kharak location, Shimmering Path temple, Mholah-Ri",HWC-G,,"mho,ol,la,ah","o,a","mh,m,h,l,h","XYZ-YZ,XY-XYZ",
+Morrh,temple,"Kharak location, Shimmering Path temple, Morrh-Re",HWC-G,,"mo,or,orrh",o,"m,r,rh,rr,h",XYZ,Morr'h?
+Naab,temple,"Kharak location, Shimmering Path temple, Naab-Corum",HWC-G,,"na,ab","a,aa","n,b",XYYZ,
+Naar,ship,"KSN ship, Naar-Tel, Somtaaw destroyer",HWC-G,,"na,ar","a,aa","n,r",XYYZ,
+Nan,temple,"Kharak location, Shimmering Path temple, Thuuw-Nan
+Kharak location, Shimmering Path temple, Shuus-Nan",HWC-G,,"na,an",a,n,XYZ,
+Nar,tech,"Tech, Maach-nar, Somtaaw Laser Projection System",HWC-G,,"na,ar",a,"n,r",XYZ,
+Nitz,temple,"Kharak location, Shimmering Path temple, Maal-Nitz",HWC-G,,"ni,itz",i,"m,tz",XYZ,-ITZ - very uncommon
+Paaura,culture,"Kushan culture, vendetta",HWC-G,a,"pa,ha,ur","a,aa,u","p,r","XYYYZ, XYYZ,XYXYYZ",Pa'aura?
+Ra,location,"Galactic location, star system, Siege Cannon testing range",HWC-G,a,ra,a,r,XY,
+Rak,ship,"KSN ship, Veer-Rak, Naabali carrier",HWC-G,,"ra,ak",a,"r,k",XYZ,
+Ran,name,"Person, Ran Kaalel, radio star",HWC-O,,"ra,an",a,"r,n",XYZ,
+Re,ship,"KSN ship, Bushan-Re, destroyer
+Kharak location, Shimmering Path temple, Morrh-Re",HWC-G,e,re,e,r,XY,
+Ri,temple,"Kharak location, Shimmering Path temple, Mholah-Ri",HWC-G,i,ri,i,r,XY,
+Ruun,temple,"Kharak location, Shimmering Path temple, Ruun-Aaid",HWC-G,,"ru,un","u,uu","r,n",XYYZ,
+San,temple,"Kharak location, Shimmering Path temple, Clee-San, ""Truth Seeker""
+Kharak location, Shimmering Path temple, Eheb-San",HWC-G,,"sa,an",a,"s,n",XYZ,
+Seera,location,"Galactic location, Seera Tel, star system where Beast missile first seen",HWC-M,a,"se,er","e,ee,a","s,r",XYYZ,
+Shaar,location,Hiigaran peninsula,HWC-O,,"sha,ar","a,aa","sh,r",XYYZ,
+Shin,temple,"Kharak location, Shimmering Path temple, Shin-Clah",HWC-G,,"shi, in",i,"sh,n",XYZ,
+Shto,ship,"KSN ship, Caal-Shto, Manaani carrier
+KSN ship, Gren-Shto, Hraali carrier",HWC-G,o,shto,o,"sh,t",XY,Sh'to?
+Shuus,temple,"Kharak location, Shimmering Path temple, Shuus-Nan",HWC-G,,"shu,us","u,uu","sh,s",XYYZ,
+Siima,name,"Person, Siima Manaan",HWC-O,a,"si,im","i,ii","s,m",XYYZ,
+Sojent,location,"Galactic location, star system, Siege Cannon testing range",HWC-G,,"so,oj,je,en,ent","o,e","s,j,n,t",XY-XYZ,
+Suungo,mt.,"Hiigaran location, mountains",HWC-O,o,"su,un,xng,go","u,uu,o","s,n,g","XYYZ,XYYZ-XY",
+Tambuur,kiith,"Kiith, with 1 member remaining AHL",HWC-M,,"ta,am,bu,ur","a,u,uu","t,m,b,r",XYZ-XYYZ,"Som-Taaw, Tam-Buur"
+Te,location,"Galactic location, Dark Matter Cluster, Far Reaches sector, Faal-Te",HWC-G,e,te,e,t,XY,Tel?
+Teer,temple,"Kharak location, Shimmering Path temple, Teer-Gig",HWC-G,,"te,er","e,ee","t,r",XYYZ,
+Teigor,name,"Person, Teigor Somtaaw-Sa, initiator of Shimmering Path building",HWC-M,,"te,xi,go,or,ig","e,i,o","t,g,r","XY-XYZ,XYi-XYZ",
+Tel,ship,"KSN ship, Naar-Tel, Somtaaw destroyer
+Galactic location, Tel sector
+Galactic location, Seera Tel, star system where Beast missile first seen",HWC-G,,"te,el",e,"t,l",XYZ,
+Ten,temple,"Kharak location, Shimmering Path temple, Gaal-Ten",HWC-G,,"te,en",e,"t,n",XYZ,
+Thul,temple,"Kharak location, Shimmering Path temple, Thul-Lee",HWC-G,,"thu,ul","u,uu","th,l",XYZ,
+Thuuw,temple,"Kharak location, Shimmering Path temple, Thuuw-Nan",HWC-G,,"thu,uw","u,uu","th,w",XYYZ,
+Toet,temple,"Kharak location, Shimmering Path temple, Toet-Coy",HWC-G,,"to,et","o,e",t,XYYZ,
+Veer,ship,"KSN ship, Veer-Rak, Naabali carrier
+Kharak location, Shimmering Path temple, Veer-Kah",HWC-G,,"ve,er","e,ee","v,r",XYYZ,
+Vhenk,temple,"Kharak location, Shimmering Path temple, Vhenk-Maan",HWC-G,,"vhe,enk",e,"vh,n,k",XYZ,
+Yuun,temple,"Kharak location, Shimmering Path temple, Feng-Yuun",HWC-G,,"yu,un","u,uu","y,n",XYYZ,

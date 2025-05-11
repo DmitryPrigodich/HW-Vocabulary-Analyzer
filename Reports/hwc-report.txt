@@ -1,0 +1,306 @@
+
+=== VOWELS By Frequency ===
+a : 45
+e : 21
+aa : 18
+i : 18
+o : 18
+u : 16
+uu : 9
+ii : 6
+ee : 3
+io : 1
+yo : 1
+oo : 1
+
+=== CONSONANTS By Frequency ===
+r : 35
+n : 28
+k : 20
+l : 18
+t : 12
+m : 12
+s : 9
+h : 9
+g : 9
+b : 8
+d : 5
+sh : 5
+f : 4
+th : 3
+w : 2
+v : 2
+rr : 2
+j : 2
+tt : 1
+gh : 1
+ng : 1
+ch : 1
+mh : 1
+rh : 1
+tz : 1
+p : 1
+vh : 1
+y : 1
+
+=== WORD STRUCTURES ===
+[XYYZ] (33)
+	Aaid, Aart, Aiowa, Baar, Faal, Frein, Gaal, Gaar, Ghoan, Jiin, Kaal, Kiori, Koor, Kuun, Kuura, Liir, Maach, Maal, Maan, Naab, Naar, Paaura, Ruun, Seera, Shaar, Shuus, Siima, Suungo, Teer, Thuuw, Toet, Veer, Yuun
+[XYZ] (26)
+	Balhi, Dava, Drun, Eh, Ett, Farr, Feng, Gig, Gren, Kah, Kar, Klah, Kona, Lan, Morrh, Nan, Nar, Nitz, Rak, Ran, San, Shin, Tel, Ten, Thul, Vhenk
+[XYZ-YZ] (8)
+	Arban, Bushan, Eheb, Hameln, Koreth, Koruk, Korum, Mholah
+[XY] (8)
+	Klii, Koi, Lii, Ra, Re, Ri, Shto, Te
+[XY-XYZ] (6)
+	Bushan, Hameln, Koreth, Mholah, Sojent, Teigor
+[XY-XYYZ] (3)
+	Asaam, Kadiir, Kasaar
+[XYYYZ] (2)
+	Aaid, Paaura
+[XYZ-XYZ] (2)
+	Arban, Khontala
+[XYZ-XY] (2)
+	Balhi, Lungma
+[XY-XY] (1)
+	Gideo
+[XYYZ-YZ] (1)
+	Kaalel
+[XYYZ-XYZ-XYZ] (1)
+	Kaaliburnos
+[XYXYYZ] (1)
+	Paaura
+[XYYZ-XY] (1)
+	Suungo
+[XYZ-XYYZ] (1)
+	Tambuur
+[XYI-XYZ] (1)
+	Teigor
+
+=== ROOTS ===
+[HA] (7)
+	Aaid, Aart, Aiowa, Arban, Asaam, Hameln, Paaura
+[KA] (7)
+	Kaal, Kaalel, Kaaliburnos, Kadiir, Kah, Kar, Kasaar
+[KO] (6)
+	Koi, Kona, Koor, Koreth, Koruk, Korum
+[TE] (5)
+	Te, Teer, Teigor, Tel, Ten
+[MA] (4)
+	Lungma, Maach, Maal, Maan
+[NA] (4)
+	Naab, Naar, Nan, Nar
+[BA] (3)
+	Arban, Baar, Balhi
+[SA] (3)
+	Asaam, Kasaar, San
+[BU] (3)
+	Bushan, Kaaliburnos, Tambuur
+[HE] (3)
+	Eh, Eheb, Ett
+[RA] (3)
+	Ra, Rak, Ran
+[SHA] (2)
+	Bushan, Shaar
+[FA] (2)
+	Faal, Farr
+[GA] (2)
+	Gaal, Gaar
+[GI] (2)
+	Gideo, Gig
+[LI] (2)
+	Kaaliburnos, Liir
+[KHA] (2)
+	Kah, Khontala
+[TA] (2)
+	Khontala, Tambuur
+[RE] (2)
+	Koreth, Re
+[RU] (2)
+	Korum, Ruun
+[KU] (2)
+	Kuun, Kuura
+[LA] (2)
+	Lan, Mholah
+[GO] (2)
+	Suungo, Teigor
+[THU] (2)
+	Thul, Thuuw
+[HI] (1)
+	Balhi
+[DA] (1)
+	Dava
+[VA] (1)
+	Dava
+[DRU] (1)
+	Drun
+[FE] (1)
+	Feng
+[FRE] (1)
+	Frein
+[GHO] (1)
+	Ghoan
+[DE] (1)
+	Gideo
+[GRE] (1)
+	Gren
+[ME] (1)
+	Hameln
+[JI] (1)
+	Jiin
+[NO] (1)
+	Kaaliburnos
+[DI] (1)
+	Kadiir
+[KI] (1)
+	Kiori
+[KLA] (1)
+	Klah
+[KLI] (1)
+	Klii
+[LII] (1)
+	Lii
+[LU] (1)
+	Lungma
+[MHO] (1)
+	Mholah
+[MO] (1)
+	Morrh
+[NI] (1)
+	Nitz
+[PA] (1)
+	Paaura
+[RI] (1)
+	Ri
+[SE] (1)
+	Seera
+[SHI] (1)
+	Shin
+[SHTO] (1)
+	Shto
+[SHU] (1)
+	Shuus
+[SI] (1)
+	Siima
+[SO] (1)
+	Sojent
+[JE] (1)
+	Sojent
+[SU] (1)
+	Suungo
+[TO] (1)
+	Toet
+[VE] (1)
+	Veer
+[VHE] (1)
+	Vhenk
+[YU] (1)
+	Yuun
+
+=== SUFFIXES ===
+[AR] (9)
+	Arban, Baar, Farr, Gaar, Kar, Kasaar, Naar, Nar, Shaar
+[AN] (8)
+	Arban, Bushan, Ghoan, Lan, Maan, Nan, Ran, San
+[AL] (8)
+	Balhi, Faal, Gaal, Kaal, Kaalel, Kaaliburnos, Khontala, Maal
+[OR] (7)
+	Kiori, Koor, Koreth, Koruk, Korum, Morrh, Teigor
+[UN] (6)
+	Drun, Kuun, Lungma, Ruun, Suungo, Yuun
+[EN] (4)
+	Feng, Gren, Sojent, Ten
+[UR] (4)
+	Kaaliburnos, Kuura, Paaura, Tambuur
+[XI] (3)
+	Aiowa, Koi, Teigor
+[AM] (3)
+	Asaam, Hameln, Tambuur
+[IN] (3)
+	Frein, Jiin, Shin
+[EL] (3)
+	Hameln, Kaalel, Tel
+[AH] (3)
+	Kah, Klah, Mholah
+[ER] (3)
+	Seera, Teer, Veer
+[AA] (2)
+	Aaid, Aart
+[ID] (2)
+	Aaid, Gideo
+[EH] (2)
+	Eh, Eheb
+[ET] (2)
+	Ett, Toet
+[XNG] (2)
+	Feng, Suungo
+[IG] (2)
+	Gig, Teigor
+[IR] (2)
+	Kadiir, Liir
+[ON] (2)
+	Khontala, Kona
+[ART] (1)
+	Aart
+[OW] (1)
+	Aiowa
+[ARB] (1)
+	Arban
+[ALH] (1)
+	Balhi
+[I] (1)
+	Balhi
+[USH] (1)
+	Bushan
+[XSH] (1)
+	Bushan
+[AV] (1)
+	Dava
+[A] (1)
+	Dava
+[EB] (1)
+	Eheb
+[ETT] (1)
+	Ett
+[ARR] (1)
+	Farr
+[ELN] (1)
+	Hameln
+[OS] (1)
+	Kaaliburnos
+[URN] (1)
+	Kaaliburnos
+[XTH] (1)
+	Koreth
+[UK] (1)
+	Koruk
+[UM] (1)
+	Korum
+[UNG] (1)
+	Lungma
+[ACH] (1)
+	Maach
+[OL] (1)
+	Mholah
+[ORRH] (1)
+	Morrh
+[AB] (1)
+	Naab
+[ITZ] (1)
+	Nitz
+[AK] (1)
+	Rak
+[US] (1)
+	Shuus
+[IM] (1)
+	Siima
+[OJ] (1)
+	Sojent
+[ENT] (1)
+	Sojent
+[UL] (1)
+	Thul
+[UW] (1)
+	Thuuw
+[ENK] (1)
+	Vhenk

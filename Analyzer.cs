@@ -7,20 +7,12 @@ public class Analyzer
 {
     static readonly HashSet<char> VowelsSet = new HashSet<char>("aeiouAEIOUx".ToCharArray());
 
-    public static void AnalyzeCSV(string csvName, string reportName)
+    public static void AnalyzeCSV(string reportName, params string[] csvNames)
     {
         //CHECK PATHS
         var binDir = AppContext.BaseDirectory;
         var projectRoot = Path.GetFullPath(Path.Combine(binDir, "..", "..", ".."));
-        
-        var dataPath = Path.Combine(projectRoot, "Data", csvName);
         var outputPath = Path.Combine(projectRoot, "Reports", reportName);
-        
-        if (!File.Exists(dataPath))
-        {
-            Console.Error.WriteLine($"Файл не найден: {dataPath}");
-            return;
-        }
         
         //PREPARE DICTIONARIES
         var vowelsCount = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
@@ -30,37 +22,47 @@ public class Analyzer
         var rootsToWords = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
         var suffixesToWords = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
         var structureToWords = new Dictionary<string, List<string>>(StringComparer.OrdinalIgnoreCase);
-        
-        //READ CSV DATA
-        using var reader = new StreamReader(dataPath);
-        using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-        var records = csv.GetRecords<WordRecord>();
-        
-        //REARRANGE DATA
-        foreach (var rec in records)
+
+        foreach (var csvName in csvNames)
         {
-            Helpers.AddCounts(rec.Vowels, vowelsCount);
-            Helpers.AddCounts(rec.Consonants, consonantsCount);
-            Helpers.AddCounts(rec.Structure, structureCount);
-
-            foreach (var part in Helpers.SplitAndTrim(rec.Parts))
+            var dataPath = Path.Combine(projectRoot, "Data", csvName);
+            if (!File.Exists(dataPath))
             {
-                if (string.IsNullOrEmpty(part)) continue;
-                char first = part[0];
-                var dict = VowelsSet.Contains(first)
-                    ? suffixesToWords
-                    : rootsToWords;
-
-                if (!dict.TryGetValue(part, out var list))
-                    dict[part] = list = new List<string>();
-                list.Add(rec.Word);
+                Console.Error.WriteLine($"Файл не найден: {dataPath}");
+                return;
             }
-
-            foreach (var struc in Helpers.SplitAndTrim(rec.Structure))
+            
+            //READ CSV DATA
+            using var reader = new StreamReader(dataPath);
+            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
+            var records = csv.GetRecords<WordRecord>();
+        
+            //REARRANGE DATA
+            foreach (var rec in records)
             {
-                if (!structureToWords.TryGetValue(struc, out var list))
-                    structureToWords[struc] = list = new List<string>();
-                list.Add(rec.Word);
+                Helpers.AddCounts(rec.Vowels, vowelsCount);
+                Helpers.AddCounts(rec.Consonants, consonantsCount);
+                Helpers.AddCounts(rec.Structure, structureCount);
+
+                foreach (var part in Helpers.SplitAndTrim(rec.Parts))
+                {
+                    if (string.IsNullOrEmpty(part)) continue;
+                    char first = part[0];
+                    var dict = VowelsSet.Contains(first)
+                        ? suffixesToWords
+                        : rootsToWords;
+
+                    if (!dict.TryGetValue(part, out var list))
+                        dict[part] = list = new List<string>();
+                    list.Add(rec.Word);
+                }
+
+                foreach (var struc in Helpers.SplitAndTrim(rec.Structure))
+                {
+                    if (!structureToWords.TryGetValue(struc, out var list))
+                        structureToWords[struc] = list = new List<string>();
+                    list.Add(rec.Word);
+                }
             }
         }
         
