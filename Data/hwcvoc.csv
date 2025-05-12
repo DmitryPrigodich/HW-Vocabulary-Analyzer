@@ -5,8 +5,9 @@ Aiowa,location,"Star System, Aiowa, infected Bentusi suicide location",HWC-G,a,"
 Arban,name,"Person, Arban Hraal, first Liir-Hra-Sa",HWC-O,,"ha,ar,arb,ba,an",a,"r,b,n","XYZ-XYZ,XYZ-YZ",Ar'ban? - A-r-'b-an? H'ar-ban? H'Ar'ban?
 Asaam,city,"City of Hiigara, Asaam Kiith-Sid, the capitol",HWC-M,,"ha,sa,am","a,aa","s,m",XY-XYYZ,A'saam? -> A'kadath? -> H'A'saam?
 Baar,temple,"Kharak location, Shimmering Path temple, Baar-Ett",HWC-G,,"ba,ar","a,aa","b,r",XYYZ,
-Balhi,temple,"Kharak location, Shimmering Path temple, Gaar-Balhi",HWC-G,i,"ba,al,alh,i,hi","a,i","b,l,h","XYZ,XYZ-XY",Bal-hi? Bal'h-i? Hibaal? Hiibaal-hiibala? :)
+Balhi,temple,"Kharak location, Shimmering Path temple, Gaar-Balhi",HWC-G,i,"ba,al,alh,hi","a,i","b,l,h","XYZ,XYZ-XY",Bal-hi? Bal'h-i? Hibaal? Hiibaal-hiibala? :)
 Bushan,ship,"KSN ship, Bushan-Re, destroyer",HWC-G,,"bu, ush, xsh, sha, an","u,a","b,sh,n","XY-XYZ,XYZ-YZ",
+Cho,ship,"KSN codename for TDN carrier, Saarkin-Cho",HWC-M,o,cho,o,ch,XY,
 Dava,name,"Person, Dava Tambuur, a lost wife of last remaining Tambuur, Iifrit",HWC-M,,"da,av,va,a","a,a","d,v",XYZ,
 Drun,temple,"Kharak location, Shimmering Path temple, Drun-Kyori",HWC-G,,"dru,un",u,"d,r,n",XYZ,Dran?
 Eh,temple,"Kharak location, Shimmering Path temple, Eh-Ghoan",HWC-G,,"he,eh",e,h,XYZ,
@@ -23,6 +24,10 @@ Gideo,city,"City of Kharak, Gydeo, of Somtaaw",HWC-M,o,"gi,id,de","e,o","g,d",XY
 Gig,temple,"Kharak location, Shimmering Path temple, Teer-Gig",HWC-G,,"gi,ig",i,g,XYZ,
 Gren,ship,"KSN ship, Gren-Shto, Hraali carrier",HWC-O,,"gre,en",e,"g,r,n",XYZ,
 Hameln,city,"City of Kharak, Hameln, of Somtaaw",HWC-M,,"ha,am,me,el,eln","a,e","h,m,l,n","XY-XYZ,XYZ-YZ",Ha-Mel-in? Hamel'n? Hameleon? O_o
+Heeshk,ship,KSN codename for TDN Support Frigate,HWC-M,,"he,xshk,xsh","e,ee","h,sh,k",XYYZ,
+Iifrit,name,"Person, Iifrit Tambuur, the last of his kiith",HW1-M,,"if,ri,it","i,ii","h,r,t",XYZ-XYYZ,"H'ifriit? H'if-Riit? Muad'Dib? Also, in HWC - Iifrit"
+Jakuul,deity,"Deity, with Metal Scrolls",HW1-M,,"ja,ak,ku,ul","a,u,uu","j,k,l",XYYZ-YZ,Jaakul (HW1) & Jakuul (HWC)
+Jet,deity,"Deity, Qwaar-Jet, a god of pain and enslavement",HWC-M,,"je,et",e,"j,t",XYZ,
 Jiin,location,"Kharak location, the highest mountain ""The roof of the World""",HWC-M,,"ji,in","i,ii","j,n",XYYZ,
 Kaal,ship,"KSN ship, Caal-Shto, Manaani carrier",HWC-G,,"ka,al","a,aa","k,l",XYYZ,
 Kaalel,kiith,"Kiith, of spies, assassins and artists",HWC-G,,"ka,al,el","a,aa,e","k,l",XYYZ-YZ,
@@ -39,6 +44,7 @@ Klii,temple,"Kharak location, Shimmering Path temple, Clee-San, ""Truth Seeker""
 Koi,temple,"Kharak location, Shimmering Path temple, Toet-Coy",HWC-G,i,"ko,xi","o,i",k,XY,
 Kona,name,"Person, Kona Hraal",HWC-O,a,"ko,on","o,a","k,n",XYZ,
 Koor,temple,"Kharak location, Shimmering Path temple, Coor-Lan",HWC-M,,"ko,or","o,oo","k,r",XYYZ,
+Koraal,ship,KSN codename for TDN Gravwell Generator,HWC-M,,"ko,or,ra,al","o,a,aa","k,r,l",XY-XYYZ,
 Koreth,location,"Galactic location, Taiidan sector w. Fornax & Gozan Star Systems",HWC-G,,"ko,or,re,xth","o,e","k,r,th","XY-XYZ,XYZ-YZ",
 Koruk,location,"Star System, Coruc-Farr, Naar directive first time usage
 Star System, Coruc-Tel, initial location of Clee-San",HWC-M,,"ko,or,uk","o,u","k,r",XYZ-YZ,
@@ -62,21 +68,27 @@ Nan,temple,"Kharak location, Shimmering Path temple, Thuuw-Nan
 Kharak location, Shimmering Path temple, Shuus-Nan",HWC-G,,"na,an",a,n,XYZ,
 Nar,tech,"Tech, Maach-nar, Somtaaw Laser Projection System",HWC-G,,"na,ar",a,"n,r",XYZ,
 Nitz,temple,"Kharak location, Shimmering Path temple, Maal-Nitz",HWC-G,,"ni,itz",i,"m,tz",XYZ,-ITZ - very uncommon
-Paaura,culture,"Kushan culture, vendetta",HWC-G,a,"pa,ha,ur","a,aa,u","p,r","XYYYZ, XYYZ,XYXYYZ",Pa'aura?
+Paaura,culture,"Kushan culture, vendetta",HWC-G,a,"pa,ha,ur","a,aa,u","p,r","XYYYZ, XYYZ,XY-XYYZ",Pa'aura?
+Qwaar,deity,"Deity, Qwaar-Jet, a god of pain and enslavement",HWC-M,,"qwa,ar","a,aa","q,w,k,v,r",XYYZ,"Q'waar, K'waar,K'vaar,kua'ar"
 Ra,location,"Galactic location, star system, Siege Cannon testing range",HWC-G,a,ra,a,r,XY,
 Rak,ship,"KSN ship, Veer-Rak, Naabali carrier",HWC-G,,"ra,ak",a,"r,k",XYZ,
 Ran,name,"Person, Ran Kaalel, radio star",HWC-O,,"ra,an",a,"r,n",XYZ,
 Re,ship,"KSN ship, Bushan-Re, destroyer
-Kharak location, Shimmering Path temple, Morrh-Re",HWC-G,e,re,e,r,XY,
+Kharak location, Shimmering Path temple, Morrh-Re","HWC-G
+HWC-G",e,re,e,r,XY,
 Ri,temple,"Kharak location, Shimmering Path temple, Mholah-Ri",HWC-G,i,ri,i,r,XY,
 Ruun,temple,"Kharak location, Shimmering Path temple, Ruun-Aaid",HWC-G,,"ru,un","u,uu","r,n",XYYZ,
+Saarkin,ship,"KSN codename for TDN carrier, Saarkin-Cho",HWC-M,,"sa,ar,ki,in,xrk","a,aa,i","s,r,k,n","XYYZ-XYZ,XYYZ-YZ",
 San,temple,"Kharak location, Shimmering Path temple, Clee-San, ""Truth Seeker""
-Kharak location, Shimmering Path temple, Eheb-San",HWC-G,,"sa,an",a,"s,n",XYZ,
+Kharak location, Shimmering Path temple, Eheb-San","HWC-G
+HWC-G",,"sa,an",a,"s,n",XYZ,
+Seejur,tech,"Tech, An ancient combat shield, KSN codename for TDN Defender",HWC-M,,"se,ej,ju,ur","e,ee,u,uu","s,j,r","XYYZ-YZ,XY-XYYZ","It asks for «Sejuur», with Seju being a root"
 Seera,location,"Galactic location, Seera Tel, star system where Beast missile first seen",HWC-M,a,"se,er","e,ee,a","s,r",XYYZ,
 Shaar,location,Hiigaran peninsula,HWC-O,,"sha,ar","a,aa","sh,r",XYYZ,
 Shin,temple,"Kharak location, Shimmering Path temple, Shin-Clah",HWC-G,,"shi, in",i,"sh,n",XYZ,
 Shto,ship,"KSN ship, Caal-Shto, Manaani carrier
-KSN ship, Gren-Shto, Hraali carrier",HWC-G,o,shto,o,"sh,t",XY,Sh'to?
+KSN ship, Gren-Shto, Hraali carrier","HWC-G
+HWC-O",o,shto,o,"sh,t",XY,Sh'to?
 Shuus,temple,"Kharak location, Shimmering Path temple, Shuus-Nan",HWC-G,,"shu,us","u,uu","sh,s",XYYZ,
 Siima,name,"Person, Siima Manaan",HWC-O,a,"si,im","i,ii","s,m",XYYZ,
 Sojent,location,"Galactic location, star system, Siege Cannon testing range",HWC-G,,"so,oj,je,en,ent","o,e","s,j,n,t",XY-XYZ,
@@ -87,12 +99,16 @@ Teer,temple,"Kharak location, Shimmering Path temple, Teer-Gig",HWC-G,,"te,er","
 Teigor,name,"Person, Teigor Somtaaw-Sa, initiator of Shimmering Path building",HWC-M,,"te,xi,go,or,ig","e,i,o","t,g,r","XY-XYZ,XYi-XYZ",
 Tel,ship,"KSN ship, Naar-Tel, Somtaaw destroyer
 Galactic location, Tel sector
-Galactic location, Seera Tel, star system where Beast missile first seen",HWC-G,,"te,el",e,"t,l",XYZ,
+Galactic location, Seera Tel, star system where Beast missile first seen","HWC-G
+HWC-G
+HWC-M",,"te,el",e,"t,l",XYZ,
 Ten,temple,"Kharak location, Shimmering Path temple, Gaal-Ten",HWC-G,,"te,en",e,"t,n",XYZ,
 Thul,temple,"Kharak location, Shimmering Path temple, Thul-Lee",HWC-G,,"thu,ul","u,uu","th,l",XYZ,
 Thuuw,temple,"Kharak location, Shimmering Path temple, Thuuw-Nan",HWC-G,,"thu,uw","u,uu","th,w",XYYZ,
 Toet,temple,"Kharak location, Shimmering Path temple, Toet-Coy",HWC-G,,"to,et","o,e",t,XYYZ,
+Triikor,biom,"Kharak's animal, predator cat",HWC-M,,"tri,xi,ik,ko,or","i,ii,o","t,r,k,r","XY-XYZ,XYi-XYZ",
 Veer,ship,"KSN ship, Veer-Rak, Naabali carrier
 Kharak location, Shimmering Path temple, Veer-Kah",HWC-G,,"ve,er","e,ee","v,r",XYYZ,
 Vhenk,temple,"Kharak location, Shimmering Path temple, Vhenk-Maan",HWC-G,,"vhe,enk",e,"vh,n,k",XYZ,
+Wodaan,ship,KSN codename for TDN minelayer corvette,HWC-M,,"wo,da,an","a,aa,o","v,w,d,n",XY-XYYZ,Vo-daan? Hodaan?
 Yuun,temple,"Kharak location, Shimmering Path temple, Feng-Yuun",HWC-G,,"yu,un","u,uu","y,n",XYYZ,

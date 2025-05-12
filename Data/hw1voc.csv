@@ -1,9 +1,8 @@
 Word,Type,Origin,Source,Ending,Parts,Vowels,Consonants,Structure,Comments
-Albegiido,location,"Kharak's location, valley, starting point of Paktu journey",HW1-M,o,"al,be,gi,id,do","a,e,i,ii,o","l,b,g,d",XYZ-XY-XYYZ,H'al-be-giid-o?
+Albegiido,location,"Kharak's location, valley, starting point of Paktu journey",HW1-M,o,"ha,al,be,gi,id,do","a,e,i,ii,o","l,b,g,d",XYZ-XY-XYYZ,H'al-be-giid-o?
 Chak'm'Hot,culture,Kharak's desert seasonal superstorm,HW1-M,,"cha,ak,am,ho,ot,","a,x,o","ch,k,m,h,t","XYZ, XY-XYZ,XYZ-YZ",
 Chiisur,name,"Person, Paktu Chiisur, KSN Fleet Admiral",HW1-M,,"chi,is,su,ur","i,ii,u","ch,s,r","XYYZ-YZ,XYi-XYZ",
-Cho,ship,"KSN codename for TDN carrier, Saarkin-Cho",HW1-O,o,cho,o,ch,XY,
-Daiamid,culture,Kiithid parlament,HW1-M,,"da,am,id","a,i","d,m",XYYZ-YZ,IA as YA? IO as YO?
+Daiamid,culture,Kiithid parlament,HW1-M,,"da,xi,am,id","a,i","d,m",XYYZ-YZ,IA as YA? IO as YO?
 Diirvaas,culture,"Tech, Ancient discipline of sword-dancing",HW1-O,,"di,ir,va,as","i,a,ii,aa,","d,r,v,s",XYYZ-XYYZ,
 Doine,kiith,"Kiith, of zealot Doine Per",HW1-M,e,"do,in,ne","o,i,e","d,n",XYYZ,Not clear how to spell it. DO'-IN?
 Fal,culture,"Kharak's animal, Skaal-Fal, a female of Skaal species",HW1-O,,"fa,al",a,"f,l,r",XYZ,"Fa or Fal, there were different options"
@@ -11,63 +10,61 @@ Ferin,culture,"Definition, Ferin-Sha, ""Dancing Ground""",HW1-M,,"fe,er,in","e,i
 Ferriil,kiith,"Kiith, major religious",HW1-M,,"fe,er,ri,il","e,i,ii","f,r,rr,l","XYZ-XYYZ,XY-XYYZ",
 Fiirkan,biom,"Kharak's animal, small desert hunting bird",HW1-O,,"fi,ir,xrk,ka,an","i,ii,a","f,r,k,n","XYYZ-XYZ,XYYZ-YZ",
 Fliir,name,"Person, S’jet-Sa Fliir, kiith-sa to reveal connection with Naabal",HW1-M,,"fli,ir","i,ii","f,l,r",XYYZ,F'liir?
-Fushai,ship,KSN codename for TDN Cloak Generator,HW1-O,ai,"fu,ush,xsh,sha","u,a,i","f,sh","XYZ,XY-XY",
+Fushai,ship,KSN codename for TDN Cloak Generator,HW1-O,ai,"fu,ush,xsh,sha,xi","u,a,i","f,sh","XYZ,XY-XY",
 Gaalsien,kiith,"Kiith, major religious",HW1-M,,"ga,al,si,en","a,aa,i,e","g,l,s,n",XYYZ-XYYZ,
 Gar,name,"Person, Naabal Gar, the engineer of sand protections of Saju-Ka",HW1-M,,"ga,ar",a,"g,r",XYZ,
 Gritiidim,culture,"Definition, «Sand people»",HW1-M,,"gri,it,ti,id,im","i,ii","g,r,t,d,m",XY-XYYZ-YZ,Parallel to Siidim; possible as [Griitidim]?
 Haarsuk,planet,"Planet, Kharak's System Jovian",HW1-M,,"ha,ar,su,uk","a,aa,u","h,r,s,k",XYYZ-XYZ,
-Heeshk,ship,KSN codename for TDN Support Frigate,HW1-O,,"he,xshk,xsh","e,ee","h,sh,k",XYYZ,
 Hiigara,planet,"Planet, a place of Kushan origin; Definition, «Our Home»",HW1-G,a,"hi,ga,ar","i,ii,a","h,g,r",XY-XYZ,
 Hra,kiith,"Kiith, Liir-Hra, the space industry",HW1-M,a,hra,a,"h,r",XY,H'raal -> H'ra? doesn't look like
 Hraal,kiith,"Kiith, industrial",HW1-M,,"hra,al","a,aa","h,r,l",XYYZ,H'raal could be an option
 Hunon,location,"Kharak's location, South Pole Mountains",HW1-M,,"hu,un,no,on","u,o","h,n,n",XY-XYZ,
 Huur,name,"Person, S’jet-Sa Huur, father of Karan S'jet",HW1-M,,"hu,ur","u,uu","h,r",XYYZ,
 Ifriit,name,"Person, Naabal-Sa Ifriit, leader of Intervention to end Heresy Wars",HW1-M,,"if,ri,it","i,ii","h,r,t",XYZ-XYYZ,"H'ifriit? H'if-Riit? Muad'Dib? Also, in HWC - Iifrit"
-Jaakul,deity,Deity,HW1-M,,"ja,ak,ku,ul","a,u,uu","j,k,l",XYYZ-YZ,Jaakul (HW1) & Jakuul (HWC)
+Jaakul,deity,"Deity, with gleaming servants",HW1-M,,"ja,ak,ku,ul","a,u,uu","j,k,l",XYYZ-YZ,Jaakul (HW1) & Jakuul (HWC)
 Jaraki,kiith,"Kiith, of astronomer Jaraci Leykab, Khar-Toba's finder",HW1-M,i,"ja,ar,ra,ak","a,a,i","j,r,k",XY-XYZ,This C asks for K - Jaraki
-Jet,deity,"Deity, Qwaar-Jet, a god of pain and enslavement",HW1-O,,"je,et",e,"j,t",XYZ,
 Jora,name,"Person, Manaan-Sa Jora, started a war against Siidim",HW1-M,a,"jo,or","o,a","j,r",XYZ,
-Ka,city,City of Kharak destroyed by Gaalsien,HW1-M,a,ka,a,k,XY,
+Ka,city,"City of Kharak, Saju-Ka, Gaalsien capital, destroyed by them",HW1-M,a,ka,a,k,XY,
 Kaark,ship,KSN codename for TDN Attack Bomber,HW1-O,,"ka,xrk","a,aa","k,r,k",XYYZ,
 Karan,name,"Person, S'jet Karan, Know Her Love Her (c)",HW1-G,,"ka,ar,an",a,"k,r,n",XYZ-YZ,
 Khar,ship,"Definition, Ship-name starting part
 Khar-Toba
-Khar-Selim",HW1-G,,"kha,ar",a,"kh,r",XYZ,
+Khar-Selim","HW1-G
+HW1-G
+HW1-G",,"kha,ar",a,"kh,r",XYZ,
 Kharak,planet,"Planet, a place of Kushan Exile",HW1-G,,"kha,ar,ak",a,"kh,r,k",XYZ-YZ,
 Kiith,culture,"Definition, ""Family/Clan""",HW1-G,,"ki,xth","i,ii","k,th",XYYZ,
 Kim,name,"Person, Paktu-Sa Kim, grandson of Majiir",HW1-M,,"ki,im",i,"k,m",XYZ,
-Kor,culture,"KSN codename for TDN Ion Frigate, Sajuuk Cor, ""Sajuuk's Wrath""",HW1-O,,"ko,or",o,"k,r",XYZ,Kor?
-Koraal,ship,KSN codename for TDN Gravwell Generator,HW1-O,,"ko,or,ra,al","o,a,aa","k,r,l",XY-XYYZ,
+Kor,culture,"KSN codename for TDN Ion Frigate, Sajuuk Cor, ""Sajuuk's Wrath""",HW1-O,,"ko,or",o,"k,r",XYZ,
 Koshiir,deity,"Deity, Koshiir-Ra, a god of protection",HW1-O,,"ko,shi,ir","o,i,ii","k,sh,r",XY-XYYZ,
 Kriil,name,"Person, S’jet Kriil, a Xenogenesis theory author",HW1-M,,"kri,il",ii,"k,r,l",XYYZ,K'riil?
 Kudaark,biom,"Kharak's animal, large burrower from the northern forests",HW1-O,,"ku,da,xrk","u,a,aa","k,d,r,k",XY-XYYZ,
 Kushan,people,"People, The Interstellar Exiles",HW1-G,,"ku,ush,xsh,sha,an","u,a","k,sh,n",XY-XYZ,
-Leikab,name,"Person, Jaraci Leykab, Khar-Toba's finder",HW1-M,,"le,ik,ka,ab","e,i,a","l,y,k,b","XY-XYZ,XYi-XYZ",
+Leikab,name,"Person, Jaraci Leykab, Khar-Toba's finder",HW1-M,,"le,xi,ik,ka,ab","e,i,a","l,y,k,b","XY-XYZ,XYi-XYZ",
 Liam,name,"Person, Gaalsien Liam, a leader of the last crusade to South",HW1-M,,"li,am","i,a","l,m",XYYZ,
 Liir,kiith,"Kiith, Liir-Hra, the space industry",HW1-M,,"li,ir","i,ii","l,r",XYYZ,
 Magann,kiith,"Kiith, of spaceman Rei Magann",HW1-M,,"ma,ag,ga,ann",a,"m,g,n,nn",XY-XYZ,
 Majiir,name,"Person, Paktu-Sa Majiir, leader of fleeing people from Siidim",HW1-M,,"ma,ji,ir","a,i,ii","m,j,r",XY-XYYZ,
 Manaan,kiith,"Kiith, trading, diplomacy, acting",HW1-M,,"ma,na,an","a,aa","m,n,n",XY-XYYZ,
-Mevath,name,"Person, Sagald Mevath, the archeologist of Khar-Toba",HW1-M,,"me,va,xth","e,a","m,v,th",XY-XYZ,
+Mevath,name,"Person, Sagald Mevath, the archeologist of Khar-Toba",HW1-M,,"me,ev,va,xth","e,a","m,v,th","XY-XYZ,XYZ-YZ",
 Miirpat,name,"Person, Gaalsien-Sa Miirpat, destroyed Saju-Ka sand protection",HW1-M,,"mi,ir,pa,at","i,ii,a","m,r,p,t",XYYZ-XYZ,
 Naabal,kiith,"Kiith, engineering",HW1-M,,"na,ab,al","aa,a","n,b,l",XYYZ-YZ,
 Paktu,kiith,"Kiith, South Pole",HW1-M,u,"pa,ak,tu","a,u,uu","p,k,t",XYZ-XY,
 Per,name,"Person, Doine Per, zealot burned in Silumiin",HW1-M,,"pe,er",e,"p,r",XYZ,
-Qwaar,deity,"Deity, Qwaar-Jet, a god of pain and enslavement",HW1-O,,"qwa,ar","a,aa","q,w,k,v,r",XYYZ,"Q'waar, K'waar,K'vaar,kua'ar"
 Ra,deity,"Deity, Koshiir-Ra, a god of protection",HW1-O,a,ra,a,r,XY,
 Raachok,tech,"Tech, Hurled leaded darts, KSN codename for TDN Light Corvette",HW1-O,,"ra,ach,ok","a,aa,o","r,ch,k",XYYZ-YZ,Burning spears? Small spear? Ra-Ach-ok?
+Raakel,ship,KSN codename for TDN sensor array,HW1-O,,"ra,ak,el","a,aa,e","r,k,l",XYYZ-YZ,
 Rei,name,"Person, Magann Rei, the cryosleep tester",HW1-M,ei,re,"e,i",r,XY,
 Riif,kiith,"Kiith, of KSN admiral Riif-Sa",HW1-M,,"ri,if","i,ii","r,f",XYYZ,
 S’jet,kiith,"Kiith, scientific",HW1-G,,"s',je,et","e,x","s,j,t",XY-XYZ,
 Sa,culture,"Definition, ""Leader""",HW1-M,a,sa,a,s,XY,
-Saarkin,ship,"KSN codename for TDN carrier, Saarkin-Cho",HW1-O,,"sa,ar,ki,in,xrk","a,aa,i","s,r,k,n","XYYZ-XYZ,XYYZ-YZ",
 Sagald,kiith,"Kiith, of archeologist Sagald Mevath",HW1-M,,"sa,ag,ga,ald",a,"s,g,l,d",XY-XYZ,Sagal'd?
-Saju,city,City of Kharak destroyed by Gaalsien,HW1-M,u,"sa,ju","a,u","s,j",XY-XY,
+Saju,city,"City of Kharak, Saju-Ka, Gaalsien capital, destroyed by them",HW1-M,u,"sa,ju","a,u","s,j",XY-XY,
 Sajuuk,deity,"Deity, The God",HW1-M,,"sa,ju,uk","a,u,uu","s,j,k",XY-XYYZ,
 Salla,ship,"KSN codename for TDN Resource Controller, Siim Salla",HW1-O,a,"sa,al,all,la",a,"s,l,ll","XYZ-XY,XYZ",
-Seejur,tech,"Tech, An ancient combat shield, KSN codename for TDN Defender",HW1-M,,"se,ej,ju,ur","e,ee,u,uu","s,j,r","XYYZ-YZ,XY-XYYZ","It asks for «Sejuur», with Seju being a root"
 Selim,ship,"KSN ship, Khar-Selim, KSN support vessel for Mothership",HW1-G,,"se,el,li,im","e,i","s,l,m","XYZ-YZ,",
 Sha,culture,"Definition, Ferin-Sha, ""Dancing Ground""",HW1-M,a,sha,a,sh,XY,
+Sid,culture,"Definition, ""Leader"", plural",HW1-M,,"sa,id",i,"s,d",XYZ,
 Siidim,kiith,"Kiith, major side in Heresy Wars, «Star People»",HW1-M,,"si,id,di,im","i,ii","s,d,m",XYYZ-YZ,
 Siim,ship,"KSN codename for TDN Resource Controller, Siim Salla",HW1-O,,"si,im","i,ii","s,m",XYYZ,
 Silumiin,location,"Kharak's location, first rocket launch site",HW1-M,,"si,lu,mi,in","i,ii,u","s,l,m,n",XY-XY-XYYZ,
@@ -79,9 +76,7 @@ Somtaaw,kiith,"Kiith, major religious, mining",HW1-M,,"so,om,ta,aw","o,a,aa","s,
 Taiidan,people,"People, The Interstellar Empire",HW1-G,,"ta,id,an","a,i,ii","t,d,n",XYYZ-YZ,"Well, it should be alien word"
 Tel,culture,"Kharak's animal, Skaal-Tel, a male of Skaal species",HW1-O,,"te,el",e,"t,l",XYZ,
 Tiifal,ship,KSN codename for TDN defence field frigate,HW1-O,,"ti,if,al","i,ii,a","t,f,l",XYYZ-YZ,
-Tiir,city,"City of Kharak, Naabal capital",HW1-M,,"ti,ir","i,ii","t,r",XYYZ,
+Tiir,city,"City of Kharak, Tiir, Naabal capital",HW1-M,,"ti,ir","i,ii","t,r",XYYZ,
 Tiirshak,name,"Person, Tiirshak S'jet, famous scholar",HW1-O,,"ti,ir,sha,ak","a,i,ii","t,r,sh,k",XYYZ-XYZ,
 Toba,ship,"KSN ship, Khar-Toba, Exile ship, a base for Kharak's First city",HW1-G,a,"to,ob","o,a","t,b",XYZ,
-Triikor,biom,"Kharak's animal, predator cat",HW1-O,,"tri,ik,ko,or","i,ii,o","t,r,k,r","XY-XYZ,XYi-XYZ",
 Variis,ship,KSN codename for TDN proximity sensor,HW1-O,,"va,ri,is","a,i,ii","v,r,s",XY-XYYZ,
-Wodaan,ship,KSN codename for TDN minelayer corvette,HW1-O,,"wo,da,an","a,aa,o","v,w,d,n",XY-XYYZ,Vo-daan? Hodaan?
