@@ -6,7 +6,7 @@ A simple solution created with a help of ChatGPT, to count word elements and giv
   - to collect words using the same roots and suffixes
   - to find other similarities
 
-Google [spreadsheets]([https://pages.github.com/](https://docs.google.com/spreadsheets/d/1Zb5Y1ee2zTvkYHdkAwAExr8cWcW0_cjyZhO1ZbHmXII/edit?usp=sharing)) are used for this purpose and than converted into .CSV file.
+Google [spreadsheets](https://docs.google.com/spreadsheets/d/1Zb5Y1ee2zTvkYHdkAwAExr8cWcW0_cjyZhO1ZbHmXII/edit?usp=sharing) are used for this purpose and than converted into .CSV file.
 
 Initially this work started within following articles:
 - [Homeworld: XenoLanguage](https://www.moddb.com/members/amddred/blogs/homeworld-xenolanguage)
