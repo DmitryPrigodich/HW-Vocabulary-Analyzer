@@ -10,7 +10,7 @@ Google [spreadsheets]([https://pages.github.com/](https://docs.google.com/spread
 
 Initially this work started within following articles:
 - [Homeworld: XenoLanguage](https://www.moddb.com/members/amddred/blogs/homeworld-xenolanguage)
-- [Homeworld: XenoLanguage-II]([https://www.moddb.com/members/amddred/blogs/homeworld-xenolanguage-ii)
+- [Homeworld: XenoLanguage-II](https://www.moddb.com/members/amddred/blogs/homeworld-xenolanguage-ii)
 - [Homeworld: XenoLanguage-III](https://www.moddb.com/members/amddred/blogs/homeworld-xenolanguage-iii)
 
 Hope you'd find this useful for whatever purposes you may have.
