@@ -1,5 +1,5 @@
 Word,Type,Origin,Source,Ending,Parts,Vowels,Consonants,Structure,Comments
-Albegiido,location,"Kharak's location, valley, starting point of Paktu journey",HW1-M,o,"ha,al,be,gi,id,do","a,e,i,ii,o","l,b,g,d",XYZ-XY-XYYZ,H'al-be-giid-o?
+Albegiido,location,"Kharak's location, valley, starting point of Paktu journey",HW1-M,o,"xa,al,be,gi,id,do","a,e,i,ii,o","l,b,g,d",XYZ-XY-XYYZ,H'al-be-giid-o?
 Chak'm'Hot,culture,Kharak's desert seasonal superstorm,HW1-M,,"cha,ak,am,ho,ot,","a,x,o","ch,k,m,h,t","XYZ, XY-XYZ,XYZ-YZ",
 Chiisur,name,"Person, Paktu Chiisur, KSN Fleet Admiral",HW1-M,,"chi,is,su,ur","i,ii,u","ch,s,r","XYYZ-YZ,XYi-XYZ",
 Daiamid,culture,Kiithid parlament,HW1-M,,"da,xi,am,id","a,i","d,m",XYYZ-YZ,IA as YA? IO as YO?
@@ -8,7 +8,7 @@ Doine,kiith,"Kiith, of zealot Doine Per",HW1-M,e,"do,in,ne","o,i,e","d,n",XYYZ,N
 Fal,culture,"Kharak's animal, Skaal-Fal, a female of Skaal species",HW1-O,,"fa,al",a,"f,l,r",XYZ,"Fa or Fal, there were different options"
 Ferin,culture,"Definition, Ferin-Sha, ""Dancing Ground""",HW1-M,,"fe,er,in","e,i","f,r,n",XYZ-YZ,
 Ferriil,kiith,"Kiith, major religious",HW1-M,,"fe,er,ri,il","e,i,ii","f,r,rr,l","XYZ-XYYZ,XY-XYYZ",
-Fiirkan,biom,"Kharak's animal, small desert hunting bird",HW1-O,,"fi,ir,xrk,ka,an","i,ii,a","f,r,k,n","XYYZ-XYZ,XYYZ-YZ",
+Fiirkan,biom,"Kharak fauna, small desert hunting bird",HW1-O,,"fi,ir,xrk,ka,an","i,ii,a","f,r,k,n","XYYZ-XYZ,XYYZ-YZ",
 Fliir,name,"Person, S’jet-Sa Fliir, kiith-sa to reveal connection with Naabal",HW1-M,,"fli,ir","i,ii","f,l,r",XYYZ,F'liir?
 Fushai,ship,KSN codename for TDN Cloak Generator,HW1-O,ai,"fu,ush,xsh,sha,xi","u,a,i","f,sh","XYZ,XY-XY",
 Gaalsien,kiith,"Kiith, major religious",HW1-M,,"ga,al,si,en","a,aa,i,e","g,l,s,n",XYYZ-XYYZ,
@@ -80,3 +80,4 @@ Tiir,city,"City of Kharak, Tiir, Naabal capital",HW1-M,,"ti,ir","i,ii","t,r",XYY
 Tiirshak,name,"Person, Tiirshak S'jet, famous scholar",HW1-O,,"ti,ir,sha,ak","a,i,ii","t,r,sh,k",XYYZ-XYZ,
 Toba,ship,"KSN ship, Khar-Toba, Exile ship, a base for Kharak's First city",HW1-G,a,"to,ob","o,a","t,b",XYZ,
 Variis,ship,KSN codename for TDN proximity sensor,HW1-O,,"va,ri,is","a,i,ii","v,r,s",XY-XYYZ,
+Jasah,ship,TDN ship to help out Kushans,HW1-G,,"ja,as,sa,ah",a,"j,s,h","XY-XYZ,XYZ-YZ","2nd ship was named ""C/Kor"" so it should be KSN"

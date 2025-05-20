@@ -1,0 +1,79 @@
+Word,Type,Origin,Source,Ending,Parts,Vowels,Consonants,Structure,Comments
+Akkad,culture,HGN project to replace hyperspace cores lost aboard Khar-Sajuuk,HW3-M,,"ak,ka,ad",a,"k,d",XYZ-XYZ,
+Az,ship,"HGN codename, Sho-Az, Bomber, HGN 15th Fleet",HW3-G,,az,a,z,XYZ,"Patel-Sho, Sho-Az, Azkar, Kaark..."
+Azkar,ship,"HGN codename, Azkar, Interceptor, HGN 15th Fleet",HW3-G,,"az,ka,ar",a,"z,k,r",XYZ-XYZ,"""Z"" is not common in KSN lang, unless it's TDN influence"
+Baal,name,"Person, strike adm. Ba'al Soban, cmndr of Carrier ""Khar Toran"", HGN 5th Fleet",HW3-M,,"ba,al","a,aa","b,l",XYYZ,Apostrophe is not needed
+Baalor,name,"Person, Baalor Manaan, a journalist",HW3-M,,"ba,al,or","a,aa,o","b,l,r",XYYZ-YZ,
+Baran,name,"Person, Baran Kaalel, strike cmndr of Destroyer ""Galtos"", HGN 5th Fleet",HW3-M,,"ba,ar,ra,an",a,"b,r,n","XY-XYZ,XYZ-YZ",Baran - a stubburn ram in Russian :)
+Beladin,ship,"HGN ship, Habeladin, Frigate, patrol cmndr Challa Paktu, HGN 5th Fleet",HW3-M,,"be,el,la,ad,di,in","a,e,i","b,l,d,n","XYZ-YZ-YZ,XY-XYZ-YZ",Beladin Dune Sea (c) HWDOK? Ha - dunes? sea? Ha-Majiir?
+Benai,name,"Person, cpt. Benai S'jet, Recon sqd 525",HW3-M,i,"be,en,na,xi","e,a,i","b,n","XY-XY,XYZ",
+Boreaal,ship,"HGN ship, Boreaal, Frigate, cmndr Ezeera Somtaaw, HGN 5th Fleet",HW3-M,,"bo,re,al","o,e,a,aa","b,r,l",XY-XYYYZ,It's Boreal in HW3 map
+Challa,name,"Person, Challa Paktu, patrol cmndr of Frigate ""Ha'beladin"", HGN 5th Fleet",HW3-M,a,"cha,al,all,la",a,"ch,l,ll","XYZ-XY,XYZ",Like Siim Salla
+Chuldah,name,"HGN ship, Chuldah's Hope, Resource Controller, cmndr Lazlo Somtaaw, HGN 5th Fleet",HW3-M,,"chu,ul,uld,da,ah","u,a","ch,l,d,h",XYZ-XYZ,"Who's Chuldah? I guess, it's Aliens reference"
+D'an,ship,"HGN ship, Kalik D'an, Geon-class destroyer, resolved a rebellion at Sh'tar 4B",HW3-M,,"dx,an","x,a","d,n,m,n",XYYZ,
+D'katar,name,"Person, cpt. D'katar H'raal, Interceptor wng 81",HW3-M,,"dx,ka,at,ta,ar","x,a","d,k,t,r",XY-XY-XYZ,
+D'neimon,ship,"HGN codename, D'neymon, Suppression Frigate, HGN 15th Fleet",HW3-G,,"dx,ne,xi,mo,on","x,e,i,o","d,n,m,n",XY-XY-XYZ,Fixed
+Dala,name,"Person, cpt. Dala Paktu, Interceptor wng 92",HW3-M,a,"da,al",a,"d,l",XYZ,
+Darrian,name,"Person, strike adm. Darrian Soban, cmndr of Carrier ""Deskar Fal"", HGN 5th Fleet",HW3-M,,"da,ar,arr,ri,an","a,i","d,r,rr,n","XY-XYYZ,XYZ-XYYZ","Double letters are not common in KSN lang, unless it's TDN influence"
+Derak,ship,"HGN ship, Der'ak Nor, Destroyer, strike commander Iiian Paktu, HGN 5th Fleet",HW3-M,,"de,er,ak","e,a","d,r,k",XYZ-YZ,
+Deskar,ship,"HGN ship, Deskar Fal, cmndr adm. Darrian Soban, HGN 5th Fleet",HW3-M,,"de,es,ka,ar","e,a","d,s,k,r","XYZ-XYZ, XY-XYZ",
+Ezeera,name,"Person, Ezeera Somtaaw, cmndr of Frigate ""Boreaal"", HGN 5th Fleet",HW3-M,a,"xe,ze,er","e,ee","z,r",XY-XYYZ,"""Z"" is not common in KSN lang, unless it's TDN influence"
+Faal,ship,"HGN ship, Faal Lan, Frigate, patrol cmndr Taraa Soban, HGN 5th Fleet",HW3-M,,"fa,al","a,aa","f,l",XYYZ,Faal-Corum
+Fadak,ship,"HGN ship, Fadak, Destroyer, strike cmndr Jerek Manaan, HGN 5th Fleet",HW3-M,,"fa,ad,da,ak",a,"f,d,k","XY-XYZ,XYZ-YZ",
+Fal,ship,"HGN ship, Deskar Fal, cmndr adm. Darrian Soban, HGN 5th Fleet",HW3-M,,"fa,al",a,"f,l",XYZ,
+Fel,name,"Person, Fel Manaan, patrol cmndr of Frigate ""Haal'Ta"", HGN 5th Fleet",HW3-M,,"fe,el",e,"f,l",XYZ,
+Ferin,ship,"HGN ship, Ferrin Sal, Geon-class destroyer, resolved a rebellion at Sh'tar 4B",HW3-M,,"fe,er,ri,in","e,i,a","f,r,n","XYZ-XYZ,XYZ-YZ,XY-XYZ",
+Forenthsla,ship,"HGN ship, Forenthsla, Frigate, cmndr L’kov H’raal, HGN 5th Fleet",HW3-M,a,"sla,fo,or,re,enth","o,e,a","f,r,n,th,s,l",XY-XYZ-XY,overcomplicated
+Gaalan,name,"Person, Gaalan H'raal, Bomber flight 51",HW3-M,,"ga,al,an","a,aa","g,l,n",XYYZ-YZ,
+Gal,location,"HGN location, Gal'Geth, supervulcano, and HGN codename, Battlecruiser, HGN 15th Fleet",HW3-M,,"ga,al",a,"g,l",XYZ,
+Galtos,ship,"HGN ship, Galtos, Destroyer, strike cmndr Baran Kaalel, HGN 5th Fleet",HW3-M,,"ga,al,to,os","a,o","g,l,t,s",XYZ-XYZ,
+Gar,name,"Person, Gar Kaalel, patrol cmndr of Frigate ""Krak’or"", HGN 5th Fleet",HW3-M,,"ga,ar",a,"g,r",XYZ,
+Geon,ship,"HGN codename, Geon, Destroyer, HGN 15th Fleet",HW3-G,,"ge,on","e,o","g,n",XYYZ,
+Geth,location,"HGN location, Gal'Geth, supervulcano, and HGN codename, Battlecruiser, HGN 15th Fleet",HW3-M,,"ge,eth,xth",e,"g,th",XYZ,
+Ginaar,space,"Galactic location, Ginaar's Shoal, ",HW3-M,,"gi,na,ar","i,a","g,n,r",XY-XYYZ,
+Glorith,name,"Person, Glorith Paktu, cmndr of Frigate ""Vinn Cal"", HGN 5th Fleet",HW3-M,,"glo,or,ri,xth","o,i","g,l,r,th","XYZ-YZ,XY-XYZ",
+H'reks,ship,"HGN codename, H'rex, Railgun Corvette, HGN 15th Fleet",HW3-G,,"hx,re, xks","x,e","h,r,k,s",XY-XYZ,X is not KSN usual consonant combination
+Ha,ship,"HGN ship, Habeladin, Frigate, patrol cmndr Challa Paktu, HGN 5th Fleet",HW3-M,,ha,a,h,XY,
+Haal,ship,"HGN ship, Haal-Ta, Frigate ""Haal'Ta"", patrol cmndr Fel Manaan, HGN 5th Fleet",HW3-M,,"ha,al","a,aa","h,l",XYYZ,
+Iiian,name,"Person, Iiian Paktu, strike cmndr of Destroyer ""Der’ak Nor"", HGN 5th Fleet",HW3-M,,"xi,an","i,ii,ia,a",n,XYYYZ,hiiyan? overcomplicated
+Imogen,name,"Person, Imogen S'jet, fleet command of HGN 15th Fleet",HW3-G,,"xi,mo,og,ge,en","i,o,e","m,g,n","XY-XYZ-YZ,XY-XY-XYZ","Irish name, miscast"
+Isaak,name,"Person, Isaac Paktu, fleet intelligence of HGN 15th Fleet",HW3-G,,"xi,sa,ak","i,a,aa","s,k",XY-XYYZ,
+Jartel,name,"Person, Jartel Soban, cmndr of Frigate ""Scal"", HGN 5th Fleet",HW3-M,,"ja,ar,te,el","a,e","j,r,t,l",XYZ-XYZ,
+Jerek,name,"Person, Jerek Manaan, strike cmndr of Destroyer ""Fadak"", HGN 5th Fleet",HW3-M,,"je,er,re,ek",e,"j,r,k","XY-XYZ,XYZ-YZ",
+K’la,name,"Person, K'la",HW3-M,a,"kx,xl","x,a","k,l",XYZ,Klah? Shiin-Klah (c) HWC
+K'nath,name,"Person, logistics adm. K'nath Somtaaw",HW3-M,,"kx,na,xth","x,a","k,n,th",XY-XYZ,
+Kaar,location,"HGN location, Mera'Kaar, The Great Hall",HW3-M,,"ka,ar","a,aa","k,r",XYYZ,
+Kalik,ship,"HGN ship, Kalik D'an, Geon-class destroyer, resolved a rebellion at Sh'tar 4B",HW3-M,,"ka,al,li,ik","a,i","k,l","XYZ-YZ,XY-XYZ",
+Kl'rth,name,"Person, cpt. Cl'rth Manaan, Recon sqd 123",HW3-M,,"klx,xr,th",x,"k,l,r,th",XYZ,Klarth? Kl' + rth? Weird shit
+Klii,name,"Person, Klee Manaan, show host for ""Facets of Hiigara"", ep.18.273",HW3-M,i,kli,"i,ii","k,l",XY,Klii-San? (c) HWC
+Krakor,ship,"HGN ship, Krak’or, Frigate, patrol cmndr Gar Kaalel, HGN 5th Fleet",HW3-M,,"kra,ak,ko,or","a,o","k,r","XYZ-YZ,XY-XYZ",apostrophe here would be good - K'rakor
+L'kov,name,"Person, L’kov H’raal, cmndr of Frigate ""Forenthsla"", HGN 5th Fleet",HW3-M,,"lx,ko,ov","x,o","l,k,v",XY-XYZ,Leikab was better
+Lan,ship,"HGN ship, Faal Lan, Frigate, patrol cmndr Taraa Soban, HGN 5th Fleet",HW3-M,,"la,an",a,"l,n",XYZ,Kuun-Lan
+Lazlo,name,"Person, Lazlo Somtaaw, cmndr of Resource Controller ""Chuldah's Hope"", HGN 5th Fleet",HW3-M,o,"la,az,lo,zlo","a,o","l,z",XYZ-YZ,"I guess, it's Aliens reference"
+Mera,location,"HGN location, Mera'Kaar, The Great Hall",HW3-M,a,"me,er","e,a","m,r",XYZ,
+N'beks,ship,"HGN codename, N'Bex, Recon, HGN 15th Fleet",HW3-G,,"nx,be,xks","x,e","n,b,k,s",XY-XYZ,"same, as H'rex - and somewhat HWDOK's F'xbat"
+Namell,ship,"HGN codename, Namell, Minelayer Frigate, HGN 15th Fleet",HW3-G,,"na,am,el,ell","a,e","n,m,l,ll","XY-XYZ,XYZ-YZ","challa, salla - double ll??"
+Nor,ship,"HGN ship, Der'ak Nor, Destroyer, strike commander Iiian Paktu, HGN 5th Fleet",HW3-M,,"no,or",o,"n,r",XYZ,
+Orlan,ship,"HGN codename, Orlan, Support Frigate, HGN 15th Fleet",HW3-G,,"or,la,an","o,a","r,l,n",XYZ-XYZ,"or-lan - koor-lan (HWC), flame of wraith, what's ""or""?"
+Patel,ship,"HGN codename, Patel-Sho, Torpedo Frigate, HGN 15th Fleet",HW3-G,,"pa,at,te,el","a,e","p,t,l","XYZ-YZ,XY-XYZ",pa-tel?
+R'del,fauna,"KRK fauna, R'del Shar, a sandflower with deadly thorns",HW3-M,,"rx,de,el","x,e","r,d,l",XY-XYZ,
+Raal,name,"Person, cpt. Raal Soban, Recon sqd 13",HW3-M,,"ra,al","a,aa","r,l",XYYZ,
+Regina,name,"Person, cpt. Regina Paktu, Interceptor wng 81",HW3-M,a,"re,eg,gi,in","e,i,a","r,g,n","XY-XYZ,XYZ-YZ","Roman name, miscast! re-g-in"
+S’chto,biom,"HGN fauna, S'chto, HGNH nut",HW3-M,o,"sx,chto","x,o","s,ch,t",XY-XY,overcomplicated. S'jet?
+Sal,ship,"HGN ship, Ferrin Sal, Geon-class destroyer, resolved a rebellion at Sh'tar 4B",HW3-M,,"sa,al",a,"s,l,b,h",XYZ,
+Selbah,ship,"HGN codename, Selbah, Assault Frigate, HGN 15th Fleet",HW3-G,,"se,el,ba,ah","e,a","s,l,b,h",XYZ-XYZ,
+Shar,fauna,"KRK fauna, R'del Shar, a sandflower with deadly thorns",HW3-M,,"sha,ar",a,"sh,r",XYZ,
+Sho,ship,"HGN codename, Patel-Sho, Torpedo Frigate, HGN 15th Fleet
+HGN codename, Sho-Az, Bomber, HGN 15th Fleet",HW3-G,o,sho,o,sh,XY,
+Skal,ship,"HGN ship, Scal, Frigate, cmndr Jartel Soban, HGN 5th Fleet",HW3-M,,"ska,al",a,"s,k,l",XYZ,"Skaal, mb? S'kal, at least?"
+T’saan,name,"Person, adm. T'saan Paktu/Soban, Vaygr War hero, HGN codename, Carrier, HGN 15th Fleet ",HW3-M,,"tx,sa,an","x,a,aa","t,s,n",XY-XYYZ,пацаан
+T'sari,name,"Person, cpt. T'sari Soban, Interceptor wng 33",HW3-M,i,"tx,sa,ar","x,a,i","t,s,r",XY-XYZ,
+Ta,ship,"HGN ship, Haal-Ta, Frigate ""Haal'Ta"", patrol cmndr Fel Manaan, HGN 5th Fleet",HW3-M,,ta,a,t,XY,
+Taraa,name,"Person, Taraa Soban, patrol cmndr or Frigate ""Faal Lan"", HGN 5th Fleet",HW3-M,a,"ta,ar,ra","a,aa","t,r","XY-XY,XYZ",
+Toran,ship,"HGN ship, Khar-Toran, Carrier, cmndr adm. Ba’al Soban, HGN 5th Fleet",HW3-M,,"to,or,an","o,a","t,r,n",XYZ-YZ,"Torin crater (c) HWDOK, Toreth... what's TOR?.."
+Toreth,name,"Person, fleet adm. Toreth Naabal",HW3-M,,"to,or,re,xth","o,e","t,r,th","XYZ-YZ,XY-XYZ",
+Vaal,name,"Person, senior adm. Vaal Soban
+HGN ship, Vaal Sh'to",HW3-M,,"va,al","a,aa","v,l",XYYZ,
+Zevrani,ship,"HGN codename, Zevrani, Ion Cannon Frigate, HGN 15th Fleet",HW3-G,i,"ze,ev,ra,an","e,a,i","z,v,r,n",XYZ-XYZ,"Ze? Mb, there's people of Zevran?"
+Shto,ship,"HGN ship, Vaal Sh'to, T'saan-class carrier",HW3-M,o,shto,o,"sh,t",XY,Kaal-Shto? Gren-Shto?
+Kindal,ship,"HGN ship, Kindal, T'saan-class carrier",HW3-M,,"ki,in,da,al","i,a","k,n,d,l",XYZ-XYZ,

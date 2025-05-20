@@ -1,0 +1,265 @@
+
+=== VOWELS By Frequency ===
+a : 57
+e : 25
+o : 18
+i : 16
+x : 13
+aa : 12
+ii : 2
+u : 1
+ee : 1
+ia : 1
+
+=== CONSONANTS By Frequency ===
+l : 34
+r : 32
+n : 26
+k : 20
+d : 13
+t : 12
+s : 12
+g : 10
+b : 9
+h : 6
+f : 6
+th : 6
+z : 5
+m : 5
+ch : 3
+v : 3
+sh : 3
+ll : 2
+j : 2
+rr : 1
+p : 1
+
+=== WORD STRUCTURES ===
+[XYZ] (18)
+	Az, Benai, Challa, Dala, Fal, Fel, Gal, Gar, Geth, K’la, Kl'rth, Lan, Mera, Nor, Sal, Shar, Skal, Taraa
+[XY-XYZ] (18)
+	Baran, Deskar, Fadak, Ferin, Glorith, H'reks, Jerek, K'nath, Kalik, Krakor, L'kov, N'beks, Namell, Patel, R'del, Regina, T'sari, Toreth
+[XYZ-YZ] (14)
+	Baran, Derak, Fadak, Ferin, Glorith, Jerek, Kalik, Krakor, Lazlo, Namell, Patel, Regina, Toran, Toreth
+[XYZ-XYZ] (11)
+	Akkad, Azkar, Chuldah, Deskar, Ferin, Galtos, Jartel, Orlan, Selbah, Zevrani, Kindal
+[XYYZ] (8)
+	Baal, D'an, Faal, Geon, Haal, Kaar, Raal, Vaal
+[XY-XYYZ] (5)
+	Darrian, Ezeera, Ginaar, Isaak, T’saan
+[XY] (5)
+	Ha, Klii, Sho, Ta, Shto
+[XY-XY] (3)
+	Benai, S’chto, Taraa
+[XY-XY-XYZ] (3)
+	D'katar, D'neimon, Imogen
+[XYYZ-YZ] (2)
+	Baalor, Gaalan
+[XY-XYZ-YZ] (2)
+	Beladin, Imogen
+[XYZ-YZ-YZ] (1)
+	Beladin
+[XY-XYYYZ] (1)
+	Boreaal
+[XYZ-XY] (1)
+	Challa
+[XYZ-XYYZ] (1)
+	Darrian
+[XY-XYZ-XY] (1)
+	Forenthsla
+[XYYYZ] (1)
+	Iiian
+
+=== ROOTS ===
+[KA] (6)
+	Akkad, Azkar, D'katar, Deskar, Kaar, Kalik
+[RE] (6)
+	Boreaal, Forenthsla, H'reks, Jerek, Regina, Toreth
+[LA] (5)
+	Beladin, Challa, Lan, Lazlo, Orlan
+[DA] (5)
+	Chuldah, Dala, Darrian, Fadak, Kindal
+[BA] (4)
+	Baal, Baalor, Baran, Selbah
+[RA] (4)
+	Baran, Raal, Taraa, Zevrani
+[NA] (4)
+	Benai, Ginaar, K'nath, Namell
+[GA] (4)
+	Gaalan, Gal, Galtos, Gar
+[SA] (4)
+	Isaak, Sal, T’saan, T'sari
+[BE] (3)
+	Beladin, Benai, N'beks
+[DX] (3)
+	D'an, D'katar, D'neimon
+[TA] (3)
+	D'katar, Ta, Taraa
+[RI] (3)
+	Darrian, Ferin, Glorith
+[DE] (3)
+	Derak, Deskar, R'del
+[FA] (3)
+	Faal, Fadak, Fal
+[TO] (3)
+	Galtos, Toran, Toreth
+[GE] (3)
+	Geon, Geth, Imogen
+[MO] (2)
+	D'neimon, Imogen
+[ZE] (2)
+	Ezeera, Zevrani
+[FE] (2)
+	Fel, Ferin
+[GI] (2)
+	Ginaar, Regina
+[HA] (2)
+	Ha, Haal
+[TE] (2)
+	Jartel, Patel
+[KX] (2)
+	K’la, K'nath
+[KO] (2)
+	Krakor, L'kov
+[TX] (2)
+	T’saan, T'sari
+[DI] (1)
+	Beladin
+[BO] (1)
+	Boreaal
+[CHA] (1)
+	Challa
+[CHU] (1)
+	Chuldah
+[NE] (1)
+	D'neimon
+[SLA] (1)
+	Forenthsla
+[FO] (1)
+	Forenthsla
+[GLO] (1)
+	Glorith
+[HX] (1)
+	H'reks
+[JA] (1)
+	Jartel
+[JE] (1)
+	Jerek
+[LI] (1)
+	Kalik
+[KLX] (1)
+	Kl'rth
+[TH] (1)
+	Kl'rth
+[KLI] (1)
+	Klii
+[KRA] (1)
+	Krakor
+[LX] (1)
+	L'kov
+[LO] (1)
+	Lazlo
+[ZLO] (1)
+	Lazlo
+[ME] (1)
+	Mera
+[NX] (1)
+	N'beks
+[NO] (1)
+	Nor
+[PA] (1)
+	Patel
+[RX] (1)
+	R'del
+[SX] (1)
+	S’chto
+[CHTO] (1)
+	S’chto
+[SE] (1)
+	Selbah
+[SHA] (1)
+	Shar
+[SHO] (1)
+	Sho
+[SKA] (1)
+	Skal
+[VA] (1)
+	Vaal
+[SHTO] (1)
+	Shto
+[KI] (1)
+	Kindal
+
+=== SUFFIXES ===
+[AL] (17)
+	Baal, Baalor, Boreaal, Challa, Dala, Faal, Fal, Gaalan, Gal, Galtos, Haal, Kalik, Raal, Sal, Skal, Vaal, Kindal
+[AR] (12)
+	Azkar, Baran, D'katar, Darrian, Deskar, Gar, Ginaar, Jartel, Kaar, Shar, T'sari, Taraa
+[AN] (10)
+	Baran, D'an, Darrian, Gaalan, Iiian, Lan, Orlan, T’saan, Toran, Zevrani
+[OR] (8)
+	Baalor, Forenthsla, Glorith, Krakor, Nor, Orlan, Toran, Toreth
+[EL] (7)
+	Beladin, Fel, Jartel, Namell, Patel, R'del, Selbah
+[AK] (5)
+	Akkad, Derak, Fadak, Isaak, Krakor
+[XI] (5)
+	Benai, D'neimon, Iiian, Imogen, Isaak
+[ER] (5)
+	Derak, Ezeera, Ferin, Jerek, Mera
+[IN] (4)
+	Beladin, Ferin, Regina, Kindal
+[XTH] (4)
+	Geth, Glorith, K'nath, Toreth
+[AD] (3)
+	Akkad, Beladin, Fadak
+[AZ] (3)
+	Az, Azkar, Lazlo
+[EN] (2)
+	Benai, Imogen
+[AH] (2)
+	Chuldah, Selbah
+[AT] (2)
+	D'katar, Patel
+[ON] (2)
+	D'neimon, Geon
+[XKS] (2)
+	H'reks, N'beks
+[ALL] (1)
+	Challa
+[UL] (1)
+	Chuldah
+[ULD] (1)
+	Chuldah
+[ARR] (1)
+	Darrian
+[ES] (1)
+	Deskar
+[XE] (1)
+	Ezeera
+[ENTH] (1)
+	Forenthsla
+[OS] (1)
+	Galtos
+[ETH] (1)
+	Geth
+[OG] (1)
+	Imogen
+[EK] (1)
+	Jerek
+[XL] (1)
+	K’la
+[IK] (1)
+	Kalik
+[XR] (1)
+	Kl'rth
+[OV] (1)
+	L'kov
+[AM] (1)
+	Namell
+[ELL] (1)
+	Namell
+[EG] (1)
+	Regina
+[EV] (1)
+	Zevrani

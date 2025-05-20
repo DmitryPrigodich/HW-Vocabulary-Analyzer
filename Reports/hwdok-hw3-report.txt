@@ -1,0 +1,410 @@
+
+=== VOWELS By Frequency ===
+a : 111
+i : 44
+e : 41
+aa : 30
+o : 30
+x : 29
+ii : 17
+u : 3
+ae : 2
+uu : 1
+ee : 1
+ia : 1
+
+=== CONSONANTS By Frequency ===
+r : 69
+l : 49
+n : 48
+k : 45
+s : 30
+t : 27
+d : 24
+b : 19
+g : 15
+f : 13
+th : 12
+m : 12
+h : 11
+sh : 9
+j : 7
+ch : 6
+v : 6
+z : 6
+kh : 5
+p : 5
+ll : 3
+rr : 2
+dh : 1
+w : 1
+
+=== WORD STRUCTURES ===
+[XY-XYZ] (34)
+	Ashinta, Ashoka, B’tiir, B’tir, Dekard, Dhaigren, K’Had, K'karr, Kalash, Kapisi, Khashar, M’toth, P’torr, Roman, Sakala, Sarathi, Baran, Deskar, Fadak, Ferin, Glorith, H'reks, Jerek, K'nath, Kalik, Krakor, L'kov, N'beks, Namell, Patel, R'del, Regina, T'sari, Toreth
+[XYZ-YZ] (30)
+	Amida, Ashinta, Ashoka, Jakob, Jonas, Kalash, Khadiim, Khashar, M’toth, Nathan, Rachel, Roman, Sakala, Sam’t, Sarathi, Torin, Baran, Derak, Fadak, Ferin, Glorith, Jerek, Kalik, Krakor, Lazlo, Namell, Patel, Regina, Toran, Toreth
+[XYZ] (22)
+	K’Had, Kal, Knar, Stell, Az, Benai, Challa, Dala, Fal, Fel, Gal, Gar, Geth, K’la, Kl'rth, Lan, Mera, Nor, Sal, Shar, Skal, Taraa
+[XYYZ] (21)
+	Baer, Chriil, Duuk, Hail, Jean, Kaaw, Kriil, Paik, Riiti, Saar, Tiira, Viin, Vriis, Baal, D'an, Faal, Geon, Haal, Kaar, Raal, Vaal
+[XYZ-XYZ] (14)
+	F’ksbat, Kor’shesh, Tarsis, Akkad, Azkar, Chuldah, Deskar, Ferin, Galtos, Jartel, Orlan, Selbah, Zevrani, Kindal
+[XY-XYYZ] (13)
+	B’shiir, Bokiir, Fagaan, J’niira, Khadiim, Khagaan, Masaar, P’chirii, Darrian, Ezeera, Ginaar, Isaak, T’saan
+[XYYZ-YZ] (10)
+	Aard’th, Faagan, Fiiskire, Gaarket, Haariri, Khaanef, Siifar, Skaad’l, Baalor, Gaalan
+[XY] (10)
+	Brii, Re, Slaa, Su, Taa, Ha, Klii, Sho, Ta, Shto
+[XY-XYZ-YZ] (5)
+	A’kadath, Akalon, Beladin, J’dones, Imogen
+[XY-XY-XYZ] (4)
+	A’kadath, D'katar, D'neimon, Imogen
+[XYYZ-XYZ] (4)
+	Aard’th, Fiiskire, Gaarket, Miirhan
+[XYZ-XYYZ] (4)
+	K’nsaal, K'thtaal, Korvaal, Darrian
+[XYZ-YZ-YZ] (2)
+	Akalon, Beladin
+[XYYYZ] (3)
+	Biaan, Faaern, Iiian
+[XY-XY] (3)
+	Benai, S’chto, Taraa
+[XYZ-XY] (2)
+	Renza, Challa
+[XYZ-YZ-XY] (1)
+	Ashinta
+[XY-XYZ-XYZ] (1)
+	Ashinta
+[XYI-XYZ] (1)
+	Dhaigren
+[XY-XYYYZ] (1)
+	Boreaal
+[XY-XYZ-XY] (1)
+	Forenthsla
+
+=== ROOTS ===
+[KA] (15)
+	A’kadath, Akalon, Dekard, K'karr, Kaaw, Kal, Kalash, Kapisi, Sakala, Akkad, Azkar, D'katar, Deskar, Kaar, Kalik
+[SA] (10)
+	K’nsaal, Masaar, Saar, Sakala, Sam’t, Sarathi, Isaak, Sal, T’saan, T'sari
+[RE] (9)
+	Dhaigren, Re, Renza, Boreaal, Forenthsla, H'reks, Jerek, Regina, Toreth
+[GA] (8)
+	Faagan, Fagaan, Gaarket, Khagaan, Gaalan, Gal, Galtos, Gar
+[TA] (7)
+	Ashinta, K'thtaal, Taa, Tarsis, D'katar, Ta, Taraa
+[LA] (6)
+	Beladin, Kalash, Challa, Lan, Lazlo, Orlan
+[DA] (6)
+	A’kadath, Chuldah, Dala, Darrian, Fadak, Kindal
+[BA] (6)
+	Baer, F’ksbat, Baal, Baalor, Baran, Selbah
+[FA] (6)
+	Faaern, Faagan, Fagaan, Faal, Fadak, Fal
+[HA] (6)
+	Haariri, Hail, K’Had, Miirhan, Ha, Haal
+[KX] (6)
+	K’Had, K'karr, K’nsaal, K'thtaal, K’la, K'nath
+[TO] (6)
+	M’toth, P’torr, Torin, Galtos, Toran, Toreth
+[RA] (6)
+	Rachel, Sarathi, Baran, Raal, Taraa, Zevrani
+[KHA] (5)
+	K’Had, Khaanef, Khadiim, Khagaan, Khashar
+[NA] (5)
+	Nathan, Benai, Ginaar, K'nath, Namell
+[RI] (5)
+	Riiti, Torin, Darrian, Ferin, Glorith
+[DX] (4)
+	Aard’th, D'an, D'katar, D'neimon
+[BE] (3)
+	Beladin, Benai, N'beks
+[DE] (4)
+	Dekard, Derak, Deskar, R'del
+[KO] (4)
+	Kor’shesh, Korvaal, Krakor, L'kov
+[BX] (3)
+	B’shiir, B’tiir, B’tir
+[TI] (3)
+	B’tiir, B’tir, Tiira
+[DI] (2)
+	Beladin, Khadiim
+[GE] (3)
+	Geon, Geth, Imogen
+[SHI] (2)
+	Ashinta, B’shiir
+[BO] (2)
+	Bokiir, Boreaal
+[KI] (2)
+	Bokiir, Kindal
+[FAA] (2)
+	Faaern, Faagan
+[JX] (2)
+	J’dones, J’niira
+[JA] (2)
+	Jakob, Jartel
+[JE] (2)
+	Jean, Jerek
+[SHA] (2)
+	Khashar, Shar
+[VA] (2)
+	Korvaal, Vaal
+[MA] (2)
+	Masaar, Roman
+[PX] (2)
+	P’chirii, P’torr
+[PA] (2)
+	Paik, Patel
+[SI] (2)
+	Siifar, Tarsis
+[SKA] (2)
+	Skaad’l, Skal
+[SLA] (2)
+	Slaa, Forenthsla
+[MO] (2)
+	D'neimon, Imogen
+[ZE] (2)
+	Ezeera, Zevrani
+[FE] (2)
+	Fel, Ferin
+[GI] (2)
+	Ginaar, Regina
+[TE] (2)
+	Jartel, Patel
+[TX] (2)
+	T’saan, T'sari
+[BI] (1)
+	Biaan
+[BRI] (1)
+	Brii
+[CHRI] (1)
+	Chriil
+[DHA] (1)
+	Dhaigren
+[DU] (1)
+	Duuk
+[FX] (1)
+	F’ksbat
+[FI] (1)
+	Fiiskire
+[KE] (1)
+	Gaarket
+[DO] (1)
+	J’dones
+[NI] (1)
+	J’niira
+[JO] (1)
+	Jonas
+[PI] (1)
+	Kapisi
+[KNA] (1)
+	Knar
+[SHE] (1)
+	Kor’shesh
+[KRI] (1)
+	Kriil
+[MX] (1)
+	M’toth
+[MI] (1)
+	Miirhan
+[CHI] (1)
+	P’chirii
+[ZA] (1)
+	Renza
+[RO] (1)
+	Roman
+[STE] (1)
+	Stell
+[SU] (1)
+	Su
+[VI] (1)
+	Viin
+[VRI] (1)
+	Vriis
+[CHA] (1)
+	Challa
+[CHU] (1)
+	Chuldah
+[NE] (1)
+	D'neimon
+[FO] (1)
+	Forenthsla
+[GLO] (1)
+	Glorith
+[HX] (1)
+	H'reks
+[LI] (1)
+	Kalik
+[KLX] (1)
+	Kl'rth
+[TH] (1)
+	Kl'rth
+[KLI] (1)
+	Klii
+[KRA] (1)
+	Krakor
+[LX] (1)
+	L'kov
+[LO] (1)
+	Lazlo
+[ZLO] (1)
+	Lazlo
+[ME] (1)
+	Mera
+[NX] (1)
+	N'beks
+[NO] (1)
+	Nor
+[RX] (1)
+	R'del
+[SX] (1)
+	S’chto
+[CHTO] (1)
+	S’chto
+[SE] (1)
+	Selbah
+[SHO] (1)
+	Sho
+[SHTO] (1)
+	Shto
+
+=== SUFFIXES ===
+[AL] (24)
+	Akalon, K’nsaal, K'thtaal, Kal, Kalash, Korvaal, Sakala, Baal, Baalor, Boreaal, Challa, Dala, Faal, Fal, Gaalan, Gal, Galtos, Haal, Kalik, Raal, Sal, Skal, Vaal, Kindal
+[AR] (23)
+	Aard’th, Gaarket, Haariri, K'karr, Khashar, Knar, Masaar, Saar, Sarathi, Siifar, Tarsis, Azkar, Baran, D'katar, Darrian, Deskar, Gar, Ginaar, Jartel, Kaar, Shar, T'sari, Taraa
+[AN] (19)
+	Biaan, Faagan, Fagaan, Jean, Khaanef, Khagaan, Miirhan, Nathan, Roman, Baran, D'an, Darrian, Gaalan, Iiian, Lan, Orlan, T’saan, Toran, Zevrani
+[OR] (12)
+	Kor’shesh, Korvaal, P’torr, Torin, Baalor, Forenthsla, Glorith, Krakor, Nor, Orlan, Toran, Toreth
+[XTH] (10)
+	A’kadath, Aard’th, K'thtaal, M’toth, Nathan, Sarathi, Geth, Glorith, K'nath, Toreth
+[IR] (10)
+	B’shiir, B’tiir, B’tir, Bokiir, Fiiskire, Haariri, J’niira, Miirhan, P’chirii, Tiira
+[EL] (9)
+	Beladin, Rachel, Stell, Fel, Jartel, Namell, Patel, R'del, Selbah
+[AD] (7)
+	A’kadath, Beladin, K’Had, Khadiim, Skaad’l, Akkad, Fadak
+[AK] (8)
+	Akalon, Jakob, Sakala, Akkad, Derak, Fadak, Isaak, Krakor
+[IN] (7)
+	Ashinta, Beladin, Torin, Viin, Ferin, Regina, Kindal
+[XI] (8)
+	Brii, Dhaigren, P’chirii, Benai, D'neimon, Iiian, Imogen, Isaak
+[ER] (7)
+	Baer, Faaern, Derak, Ezeera, Ferin, Jerek, Mera
+[XA] (6)
+	A’kadath, Aard’th, Akalon, Amida, Ashinta, Ashoka
+[ON] (5)
+	Akalon, J’dones, Jonas, D'neimon, Geon
+[EN] (4)
+	Dhaigren, Renza, Benai, Imogen
+[IS] (4)
+	Fiiskire, Kapisi, Tarsis, Vriis
+[AM] (3)
+	Amida, Sam’t, Namell
+[XSH] (3)
+	Ashinta, Ashoka, Kor’shesh
+[IL] (3)
+	Chriil, Hail, Kriil
+[XKS] (3)
+	F’ksbat, H'reks, N'beks
+[AT] (3)
+	F’ksbat, D'katar, Patel
+[AH] (3)
+	Khashar, Chuldah, Selbah
+[AZ] (3)
+	Az, Azkar, Lazlo
+[ARD] (2)
+	Aard’th, Dekard
+[ES] (2)
+	J’dones, Deskar
+[ARR] (2)
+	K'karr, Darrian
+[XT] (2)
+	M’toth, Sam’t
+[IK] (2)
+	Paik, Kalik
+[XL] (2)
+	Skaad’l, K’la
+[ELL] (2)
+	Stell, Namell
+[AX] (1)
+	A’kadath
+[XAA] (1)
+	Aard’th
+[ID] (1)
+	Amida
+[INT] (1)
+	Ashinta
+[OK] (1)
+	Ashoka
+[AA] (1)
+	Biaan
+[IG] (1)
+	Dhaigren
+[UK] (1)
+	Duuk
+[ERN] (1)
+	Faaern
+[AG] (1)
+	Faagan
+[ISK] (1)
+	Fiiskire
+[ARK] (1)
+	Gaarket
+[ET] (1)
+	Gaarket
+[OB] (1)
+	Jakob
+[AS] (1)
+	Jonas
+[XN] (1)
+	K’nsaal
+[AW] (1)
+	Kaaw
+[ASH] (1)
+	Kalash
+[EF] (1)
+	Khaanef
+[IM] (1)
+	Khadiim
+[ESH] (1)
+	Kor’shesh
+[XRR] (1)
+	P’torr
+[ACH] (1)
+	Rachel
+[IT] (1)
+	Riiti
+[OM] (1)
+	Roman
+[IF] (1)
+	Siifar
+[ALL] (1)
+	Challa
+[UL] (1)
+	Chuldah
+[ULD] (1)
+	Chuldah
+[XE] (1)
+	Ezeera
+[ENTH] (1)
+	Forenthsla
+[OS] (1)
+	Galtos
+[ETH] (1)
+	Geth
+[OG] (1)
+	Imogen
+[EK] (1)
+	Jerek
+[XR] (1)
+	Kl'rth
+[OV] (1)
+	L'kov
+[EG] (1)
+	Regina
+[EV] (1)
+	Zevrani

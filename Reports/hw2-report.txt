@@ -1,0 +1,80 @@
+
+=== VOWELS By Frequency ===
+a : 8
+e : 3
+o : 1
+u : 1
+i : 1
+
+=== CONSONANTS By Frequency ===
+r : 4
+l : 3
+m : 3
+s : 3
+t : 3
+k : 2
+th : 2
+b : 1
+j : 1
+d : 1
+kh : 1
+n : 1
+h : 1
+
+=== WORD STRUCTURES ===
+[XYZ-YZ] (6)
+	Jadeth, Kharam, Sarum, Talas, Tanis, Terah
+[XYZ-XYZ] (2)
+	Balcora, Malketh
+[XY-XYZ] (1)
+	Jadeth
+
+=== ROOTS ===
+[TA] (2)
+	Talas, Tanis
+[BA] (1)
+	Balcora
+[KO] (1)
+	Balcora
+[JA] (1)
+	Jadeth
+[DE] (1)
+	Jadeth
+[KHA] (1)
+	Kharam
+[MA] (1)
+	Malketh
+[KE] (1)
+	Malketh
+[SA] (1)
+	Sarum
+[TE] (1)
+	Terah
+
+=== SUFFIXES ===
+[AL] (3)
+	Balcora, Malketh, Talas
+[XTH] (2)
+	Jadeth, Malketh
+[AR] (2)
+	Kharam, Sarum
+[OR] (1)
+	Balcora
+[AD] (1)
+	Jadeth
+[AM] (1)
+	Kharam
+[ALK] (1)
+	Malketh
+[UM] (1)
+	Sarum
+[AS] (1)
+	Talas
+[AN] (1)
+	Tanis
+[IS] (1)
+	Tanis
+[ER] (1)
+	Terah
+[AH] (1)
+	Terah

@@ -1,0 +1,285 @@
+
+=== VOWELS By Frequency ===
+a : 51
+i : 35
+ii : 24
+e : 13
+u : 12
+aa : 12
+o : 11
+uu : 4
+x : 2
+
+=== CONSONANTS By Frequency ===
+r : 37
+k : 25
+l : 20
+s : 20
+m : 15
+n : 15
+t : 13
+d : 10
+h : 9
+f : 8
+j : 8
+g : 7
+b : 5
+sh : 5
+ch : 3
+v : 3
+p : 3
+kh : 2
+th : 2
+rr : 1
+y : 1
+nn : 1
+ll : 1
+w : 1
+
+=== WORD STRUCTURES ===
+[XYZ] (13)
+	Chak'm'Hot, Fal, Fushai, Gar, Jora, Khar, Kim, Kor, Per, Salla, Sid, Tel, Toba
+[XYYZ] (13)
+	Doine, Fliir, Hraal, Huur, Kaark, Kiith, Kriil, Liam, Liir, Riif, Siim, Skaal, Tiir
+[XY-XYZ] (11)
+	Chak'm'Hot, Hiigara, Hunon, Jaraki, Kushan, Leikab, Magann, Mevath, S’jet, Sagald, Jasah
+[XYYZ-YZ] (10)
+	Chiisur, Daiamid, Fiirkan, Jaakul, Naabal, Raachok, Raakel, Siidim, Taiidan, Tiifal
+[XYZ-YZ] (8)
+	Chak'm'Hot, Ferin, Karan, Kharak, Mevath, Selim, Soban, Jasah
+[XY-XYYZ] (7)
+	Ferriil, Koshiir, Kudaark, Majiir, Manaan, Sajuuk, Variis
+[XY] (6)
+	Hra, Ka, Ra, Rei, Sa, Sha
+[XYYZ-XYZ] (4)
+	Fiirkan, Haarsuk, Miirpat, Tiirshak
+[XYZ-XYYZ] (3)
+	Ferriil, Ifriit, Somtaaw
+[XYI-XYZ] (2)
+	Chiisur, Leikab
+[XYYZ-XYYZ] (2)
+	Diirvaas, Gaalsien
+[XY-XY] (2)
+	Fushai, Saju
+[XYZ-XY] (2)
+	Paktu, Salla
+[XYZ-XY-XYYZ] (1)
+	Albegiido
+[XY-XYYZ-YZ] (1)
+	Gritiidim
+[XY-XY-XYYZ] (1)
+	Silumiin
+
+=== ROOTS ===
+[SA] (7)
+	Sa, Sagald, Saju, Sajuuk, Salla, Sid, Jasah
+[KA] (5)
+	Fiirkan, Ka, Kaark, Karan, Leikab
+[GA] (5)
+	Gaalsien, Gar, Hiigara, Magann, Sagald
+[RI] (4)
+	Ferriil, Ifriit, Riif, Variis
+[SHA] (4)
+	Fushai, Kushan, Sha, Tiirshak
+[SI] (4)
+	Gaalsien, Siidim, Siim, Silumiin
+[TI] (4)
+	Gritiidim, Tiifal, Tiir, Tiirshak
+[RA] (4)
+	Jaraki, Ra, Raachok, Raakel
+[VA] (3)
+	Diirvaas, Mevath, Variis
+[JA] (3)
+	Jaakul, Jaraki, Jasah
+[KU] (3)
+	Jaakul, Kudaark, Kushan
+[LI] (3)
+	Liam, Liir, Selim
+[MA] (3)
+	Magann, Majiir, Manaan
+[DO] (2)
+	Albegiido, Doine
+[SU] (2)
+	Chiisur, Haarsuk
+[DA] (2)
+	Daiamid, Kudaark
+[DI] (2)
+	Diirvaas, Siidim
+[FE] (2)
+	Ferin, Ferriil
+[HRA] (2)
+	Hra, Hraal
+[HU] (2)
+	Hunon, Huur
+[KHA] (2)
+	Khar, Kharak
+[KI] (2)
+	Kiith, Kim
+[KO] (2)
+	Kor, Koshiir
+[NA] (2)
+	Manaan, Naabal
+[MI] (2)
+	Miirpat, Silumiin
+[PA] (2)
+	Miirpat, Paktu
+[JU] (2)
+	Saju, Sajuuk
+[SO] (2)
+	Soban, Somtaaw
+[TA] (2)
+	Somtaaw, Taiidan
+[BE] (1)
+	Albegiido
+[GI] (1)
+	Albegiido
+[CHA] (1)
+	Chak'm'Hot
+[HO] (1)
+	Chak'm'Hot
+[CHI] (1)
+	Chiisur
+[NE] (1)
+	Doine
+[FA] (1)
+	Fal
+[FI] (1)
+	Fiirkan
+[FLI] (1)
+	Fliir
+[FU] (1)
+	Fushai
+[GRI] (1)
+	Gritiidim
+[HA] (1)
+	Haarsuk
+[HI] (1)
+	Hiigara
+[NO] (1)
+	Hunon
+[JO] (1)
+	Jora
+[SHI] (1)
+	Koshiir
+[KRI] (1)
+	Kriil
+[LE] (1)
+	Leikab
+[JI] (1)
+	Majiir
+[ME] (1)
+	Mevath
+[TU] (1)
+	Paktu
+[PE] (1)
+	Per
+[RE] (1)
+	Rei
+[S'] (1)
+	S’jet
+[JE] (1)
+	S’jet
+[LA] (1)
+	Salla
+[SE] (1)
+	Selim
+[LU] (1)
+	Silumiin
+[SKA] (1)
+	Skaal
+[TE] (1)
+	Tel
+[TO] (1)
+	Toba
+
+=== SUFFIXES ===
+[IR] (9)
+	Diirvaas, Fiirkan, Fliir, Koshiir, Liir, Majiir, Miirpat, Tiir, Tiirshak
+[AL] (8)
+	Albegiido, Fal, Gaalsien, Hraal, Naabal, Salla, Skaal, Tiifal
+[AK] (7)
+	Chak'm'Hot, Jaakul, Jaraki, Kharak, Paktu, Raakel, Tiirshak
+[AR] (7)
+	Gar, Haarsuk, Hiigara, Jaraki, Karan, Khar, Kharak
+[ID] (6)
+	Albegiido, Daiamid, Gritiidim, Sid, Siidim, Taiidan
+[AN] (6)
+	Fiirkan, Karan, Kushan, Manaan, Soban, Taiidan
+[IM] (5)
+	Gritiidim, Kim, Selim, Siidim, Siim
+[AM] (3)
+	Chak'm'Hot, Daiamid, Liam
+[XI] (3)
+	Daiamid, Fushai, Leikab
+[IN] (3)
+	Doine, Ferin, Silumiin
+[ER] (3)
+	Ferin, Ferriil, Per
+[XRK] (3)
+	Fiirkan, Kaark, Kudaark
+[IF] (3)
+	Ifriit, Riif, Tiifal
+[EL] (3)
+	Raakel, Selim, Tel
+[IS] (2)
+	Chiisur, Variis
+[UR] (2)
+	Chiisur, Huur
+[AS] (2)
+	Diirvaas, Jasah
+[IL] (2)
+	Ferriil, Kriil
+[USH] (2)
+	Fushai, Kushan
+[XSH] (2)
+	Fushai, Kushan
+[IT] (2)
+	Gritiidim, Ifriit
+[UK] (2)
+	Haarsuk, Sajuuk
+[OR] (2)
+	Jora, Kor
+[XTH] (2)
+	Kiith, Mevath
+[AB] (2)
+	Leikab, Naabal
+[AG] (2)
+	Magann, Sagald
+[OB] (2)
+	Soban, Toba
+[XA] (1)
+	Albegiido
+[OT] (1)
+	Chak'm'Hot
+[EN] (1)
+	Gaalsien
+[UN] (1)
+	Hunon
+[ON] (1)
+	Hunon
+[UL] (1)
+	Jaakul
+[IK] (1)
+	Leikab
+[ANN] (1)
+	Magann
+[EV] (1)
+	Mevath
+[AT] (1)
+	Miirpat
+[ACH] (1)
+	Raachok
+[OK] (1)
+	Raachok
+[ET] (1)
+	S’jet
+[ALD] (1)
+	Sagald
+[ALL] (1)
+	Salla
+[OM] (1)
+	Somtaaw
+[AW] (1)
+	Somtaaw
+[AH] (1)
+	Jasah

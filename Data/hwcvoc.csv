@@ -1,9 +1,9 @@
 Word,Type,Origin,Source,Ending,Parts,Vowels,Consonants,Structure,Comments
-Aaid,temple,"Kharak location, Shimmering Path temple, Ruun-Aaid",HWC-G,,"ha, aa, id","a,aa,i",d,"XYYYZ,XYYZ",H'Aaid?
-Aart,name,"Person, Aart Somtaaw, Sentinel project engineer",HWC-M,,"ha,aa,art","a,aa","r,t",XYYZ,Double AA? Aar't - A-ar-'t? H'Aar't?
-Aiowa,location,"Star System, Aiowa, infected Bentusi suicide location",HWC-G,a,"ha,xi,ow","a,i,o,io,yo",w,XYYZ,"Aiowa state? Mb, like Kyori - Ayowa? Kiori - Aiova? K'yori - A'yova?"
-Arban,name,"Person, Arban Hraal, first Liir-Hra-Sa",HWC-O,,"ha,ar,arb,ba,an",a,"r,b,n","XYZ-XYZ,XYZ-YZ",Ar'ban? - A-r-'b-an? H'ar-ban? H'Ar'ban?
-Asaam,city,"City of Hiigara, Asaam Kiith-Sid, the capitol",HWC-M,,"ha,sa,am","a,aa","s,m",XY-XYYZ,A'saam? -> A'kadath? -> H'A'saam?
+Aaid,temple,"Kharak location, Shimmering Path temple, Ruun-Aaid",HWC-G,,"xa,xaa, id","a,aa,i",d,"XYYYZ,XYYZ",H'Aaid?
+Aart,name,"Person, Aart Somtaaw, Sentinel project engineer",HWC-M,,"xa,xaa,art","a,aa","r,t",XYYZ,Double AA? Aar't - A-ar-'t? H'Aar't?
+Aiowa,location,"Star System, Aiowa, infected Bentusi suicide location",HWC-G,a,"xa,xi,ow","a,i,o,io,yo",w,XYYZ,"Aiowa state? Mb, like Kyori - Ayowa? Kiori - Aiova? K'yori - A'yova?"
+Arban,name,"Person, Arban Hraal, first Liir-Hra-Sa",HWC-O,,"xa,ar,arb,ba,an",a,"r,b,n","XYZ-XYZ,XYZ-YZ",Ar'ban? - A-r-'b-an? H'ar-ban? H'Ar'ban?
+Asaam,city,"City of Hiigara, Asaam Kiith-Sid, the capitol",HWC-M,,"xa,sa,am","a,aa","s,m",XY-XYYZ,A'saam? -> A'kadath? -> H'A'saam?
 Baar,temple,"Kharak location, Shimmering Path temple, Baar-Ett",HWC-G,,"ba,ar","a,aa","b,r",XYYZ,
 Balhi,temple,"Kharak location, Shimmering Path temple, Gaar-Balhi",HWC-G,i,"ba,al,alh,hi","a,i","b,l,h","XYZ,XYZ-XY",Bal-hi? Bal'h-i? Hibaal? Hiibaal-hiibala? :)
 Bushan,ship,"KSN ship, Bushan-Re, destroyer",HWC-G,,"bu, ush, xsh, sha, an","u,a","b,sh,n","XY-XYZ,XYZ-YZ",
@@ -11,8 +11,8 @@ Cho,ship,"KSN codename for TDN carrier, Saarkin-Cho",HWC-M,o,cho,o,ch,XY,
 Dava,name,"Person, Dava Tambuur, a lost wife of last remaining Tambuur, Iifrit",HWC-M,,"da,av,va,a","a,a","d,v",XYZ,
 Drun,temple,"Kharak location, Shimmering Path temple, Drun-Kyori",HWC-G,,"dru,un",u,"d,r,n",XYZ,Dran?
 Eh,temple,"Kharak location, Shimmering Path temple, Eh-Ghoan",HWC-G,,"he,eh",e,h,XYZ,
-Eheb,temple,"Kharak location, Shimmering Path temple, Eheb-San",HWC-G,,"he,eh,eb",e,"h,b",XYZ-YZ,
-Ett,temple,"Kharak location, Shimmering Path temple, Baar-Ett",HWC-G,,"he, et,ett",e,"t,tt",XYZ,H'Ett? 
+Eheb,temple,"Kharak location, Shimmering Path temple, Eheb-San",HWC-G,,"xe,eh,eb",e,"h,b",XYZ-YZ,
+Ett,temple,"Kharak location, Shimmering Path temple, Baar-Ett",HWC-G,,"xe, et,ett",e,"t,tt",XYZ,H'Ett? 
 Faal,temple,"Kharak location, Shimmering Path temple, Faal-Corum, ""Silent Wayfarer""",HWC-G,,"fa,al","a,aa","f,l",XYYZ,
 Farr,location,"Star System, Coruc-Farr, Naar directive first time usage",HWC-M,,"fa,ar,arr",a,"f,r,rr",XYZ,
 Feng,temple,"Kharak location, Shimmering Path temple, Feng-Yuun",HWC-G,,"fe,en,xng",e,"f,n,g",XYZ,Fen?

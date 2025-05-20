@@ -1,0 +1,421 @@
+
+=== VOWELS By Frequency ===
+a : 109
+i : 57
+e : 40
+o : 34
+aa : 34
+ii : 32
+u : 31
+uu : 15
+ee : 5
+x : 2
+io : 1
+yo : 1
+oo : 1
+
+=== CONSONANTS By Frequency ===
+r : 83
+k : 53
+n : 46
+l : 43
+s : 34
+t : 31
+m : 30
+h : 21
+d : 17
+g : 16
+b : 14
+j : 14
+f : 12
+sh : 11
+v : 7
+th : 7
+ch : 5
+w : 5
+p : 4
+rr : 3
+kh : 3
+y : 2
+nn : 1
+ll : 1
+tt : 1
+gh : 1
+ng : 1
+mh : 1
+rh : 1
+tz : 1
+q : 1
+vh : 1
+
+=== WORD STRUCTURES ===
+[XYYZ] (47)
+	Doine, Fliir, Hraal, Huur, Kaark, Kiith, Kriil, Liam, Liir, Riif, Siim, Skaal, Tiir, Aaid, Aart, Aiowa, Baar, Faal, Frein, Gaal, Gaar, Ghoan, Heeshk, Jiin, Kaal, Kiori, Koor, Kuun, Kuura, Maach, Maal, Maan, Naab, Naar, Paaura, Qwaar, Ruun, Seera, Shaar, Shuus, Siima, Suungo, Teer, Thuuw, Toet, Veer, Yuun
+[XYZ] (39)
+	Chak'm'Hot, Fal, Fushai, Gar, Jora, Khar, Kim, Kor, Per, Salla, Sid, Tel, Toba, Balhi, Dava, Drun, Eh, Ett, Farr, Feng, Gig, Gren, Jet, Kah, Kar, Klah, Kona, Lan, Morrh, Nan, Nar, Nitz, Rak, Ran, San, Shin, Ten, Thul, Vhenk
+[XYZ-YZ] (22)
+	Chak'm'Hot, Ferin, Karan, Kharak, Mevath, Selim, Soban, Jasah, Arban, Bushan, Eheb, Hameln, Koreth, Koruk, Korum, Mholah, Jadeth, Kharam, Sarum, Talas, Tanis, Terah
+[XY-XYZ] (19)
+	Chak'm'Hot, Hiigara, Hunon, Jaraki, Kushan, Leikab, Magann, Mevath, S’jet, Sagald, Jasah, Bushan, Hameln, Koreth, Mholah, Sojent, Teigor, Triikor, Jadeth
+[XY] (14)
+	Hra, Ka, Ra, Rei, Sa, Sha, Cho, Klii, Koi, Lii, Re, Ri, Shto, Te
+[XYYZ-YZ] (14)
+	Chiisur, Daiamid, Fiirkan, Jaakul, Naabal, Raachok, Raakel, Siidim, Taiidan, Tiifal, Jakuul, Kaalel, Saarkin, Seejur
+[XY-XYYZ] (14)
+	Ferriil, Koshiir, Kudaark, Majiir, Manaan, Sajuuk, Variis, Asaam, Kadiir, Kasaar, Koraal, Paaura, Seejur, Wodaan
+[XYZ-XYYZ] (5)
+	Ferriil, Ifriit, Somtaaw, Iifrit, Tambuur
+[XYYZ-XYZ] (5)
+	Fiirkan, Haarsuk, Miirpat, Tiirshak, Saarkin
+[XYI-XYZ] (4)
+	Chiisur, Leikab, Teigor, Triikor
+[XYZ-XY] (4)
+	Paktu, Salla, Balhi, Lungma
+[XYZ-XYZ] (4)
+	Arban, Khontala, Balcora, Malketh
+[XY-XY] (3)
+	Fushai, Saju, Gideo
+[XYYZ-XYYZ] (2)
+	Diirvaas, Gaalsien
+[XYYYZ] (2)
+	Aaid, Paaura
+[XYZ-XY-XYYZ] (1)
+	Albegiido
+[XY-XYYZ-YZ] (1)
+	Gritiidim
+[XY-XY-XYYZ] (1)
+	Silumiin
+[XYYZ-XYZ-XYZ] (1)
+	Kaaliburnos
+[XYYZ-XY] (1)
+	Suungo
+
+=== ROOTS ===
+[KA] (12)
+	Fiirkan, Ka, Kaark, Karan, Leikab, Kaal, Kaalel, Kaaliburnos, Kadiir, Kah, Kar, Kasaar
+[SA] (12)
+	Sa, Sagald, Saju, Sajuuk, Salla, Sid, Jasah, Asaam, Kasaar, Saarkin, San, Sarum
+[KO] (11)
+	Kor, Koshiir, Koi, Kona, Koor, Koraal, Koreth, Koruk, Korum, Triikor, Balcora
+[RA] (7)
+	Jaraki, Ra, Raachok, Raakel, Koraal, Rak, Ran
+[MA] (8)
+	Magann, Majiir, Manaan, Lungma, Maach, Maal, Maan, Malketh
+[GA] (7)
+	Gaalsien, Gar, Hiigara, Magann, Sagald, Gaal, Gaar
+[TE] (6)
+	Tel, Te, Teer, Teigor, Ten, Terah
+[RI] (6)
+	Ferriil, Ifriit, Riif, Variis, Iifrit, Ri
+[SHA] (6)
+	Fushai, Kushan, Sha, Tiirshak, Bushan, Shaar
+[KU] (6)
+	Jaakul, Kudaark, Kushan, Jakuul, Kuun, Kuura
+[NA] (6)
+	Manaan, Naabal, Naab, Naar, Nan, Nar
+[TA] (6)
+	Somtaaw, Taiidan, Khontala, Tambuur, Talas, Tanis
+[SI] (5)
+	Gaalsien, Siidim, Siim, Silumiin, Siima
+[JA] (5)
+	Jaakul, Jaraki, Jasah, Jakuul, Jadeth
+[KHA] (5)
+	Khar, Kharak, Kah, Khontala, Kharam
+[LI] (4)
+	Liam, Liir, Selim, Kaaliburnos
+[DA] (4)
+	Daiamid, Kudaark, Dava, Wodaan
+[VA] (4)
+	Diirvaas, Mevath, Variis, Dava
+[TI] (4)
+	Gritiidim, Tiifal, Tiir, Tiirshak
+[KI] (4)
+	Kiith, Kim, Kiori, Saarkin
+[BA] (4)
+	Arban, Baar, Balhi, Balcora
+[GI] (3)
+	Albegiido, Gideo, Gig
+[SU] (3)
+	Chiisur, Haarsuk, Suungo
+[DI] (3)
+	Diirvaas, Siidim, Kadiir
+[FA] (3)
+	Fal, Faal, Farr
+[FE] (3)
+	Ferin, Ferriil, Feng
+[HA] (3)
+	Haarsuk, Hameln, Paaura
+[PA] (3)
+	Miirpat, Paktu, Paaura
+[RE] (3)
+	Rei, Koreth, Re
+[JE] (3)
+	S’jet, Jet, Sojent
+[JU] (3)
+	Saju, Sajuuk, Seejur
+[LA] (3)
+	Salla, Lan, Mholah
+[SE] (3)
+	Selim, Seejur, Seera
+[SO] (3)
+	Soban, Somtaaw, Sojent
+[BU] (3)
+	Bushan, Kaaliburnos, Tambuur
+[DO] (2)
+	Albegiido, Doine
+[HI] (2)
+	Hiigara, Balhi
+[HRA] (2)
+	Hra, Hraal
+[HU] (2)
+	Hunon, Huur
+[NO] (2)
+	Hunon, Kaaliburnos
+[SHI] (2)
+	Koshiir, Shin
+[JI] (2)
+	Majiir, Jiin
+[ME] (2)
+	Mevath, Hameln
+[MI] (2)
+	Miirpat, Silumiin
+[LU] (2)
+	Silumiin, Lungma
+[TO] (2)
+	Toba, Toet
+[HE] (2)
+	Eh, Heeshk
+[DE] (2)
+	Gideo, Jadeth
+[RU] (2)
+	Korum, Ruun
+[GO] (2)
+	Suungo, Teigor
+[THU] (2)
+	Thul, Thuuw
+[BE] (1)
+	Albegiido
+[CHA] (1)
+	Chak'm'Hot
+[HO] (1)
+	Chak'm'Hot
+[CHI] (1)
+	Chiisur
+[NE] (1)
+	Doine
+[FI] (1)
+	Fiirkan
+[FLI] (1)
+	Fliir
+[FU] (1)
+	Fushai
+[GRI] (1)
+	Gritiidim
+[JO] (1)
+	Jora
+[KRI] (1)
+	Kriil
+[LE] (1)
+	Leikab
+[TU] (1)
+	Paktu
+[PE] (1)
+	Per
+[S'] (1)
+	S’jet
+[SKA] (1)
+	Skaal
+[CHO] (1)
+	Cho
+[DRU] (1)
+	Drun
+[FRE] (1)
+	Frein
+[GHO] (1)
+	Ghoan
+[GRE] (1)
+	Gren
+[KLA] (1)
+	Klah
+[KLI] (1)
+	Klii
+[LII] (1)
+	Lii
+[MHO] (1)
+	Mholah
+[MO] (1)
+	Morrh
+[NI] (1)
+	Nitz
+[QWA] (1)
+	Qwaar
+[SHTO] (1)
+	Shto
+[SHU] (1)
+	Shuus
+[TRI] (1)
+	Triikor
+[VE] (1)
+	Veer
+[VHE] (1)
+	Vhenk
+[WO] (1)
+	Wodaan
+[YU] (1)
+	Yuun
+[KE] (1)
+	Malketh
+
+=== SUFFIXES ===
+[AL] (20)
+	Albegiido, Fal, Gaalsien, Hraal, Naabal, Salla, Skaal, Tiifal, Balhi, Faal, Gaal, Kaal, Kaalel, Kaaliburnos, Khontala, Koraal, Maal, Balcora, Malketh, Talas
+[AR] (20)
+	Gar, Haarsuk, Hiigara, Jaraki, Karan, Khar, Kharak, Arban, Baar, Farr, Gaar, Kar, Kasaar, Naar, Nar, Qwaar, Saarkin, Shaar, Kharam, Sarum
+[AN] (16)
+	Fiirkan, Karan, Kushan, Manaan, Soban, Taiidan, Arban, Bushan, Ghoan, Lan, Maan, Nan, Ran, San, Wodaan, Tanis
+[OR] (12)
+	Jora, Kor, Kiori, Koor, Koraal, Koreth, Koruk, Korum, Morrh, Teigor, Triikor, Balcora
+[IR] (10)
+	Diirvaas, Fiirkan, Fliir, Koshiir, Liir, Majiir, Miirpat, Tiir, Tiirshak, Kadiir
+[AK] (9)
+	Chak'm'Hot, Jaakul, Jaraki, Kharak, Paktu, Raakel, Tiirshak, Jakuul, Rak
+[ID] (8)
+	Albegiido, Daiamid, Gritiidim, Sid, Siidim, Taiidan, Aaid, Gideo
+[AM] (7)
+	Chak'm'Hot, Daiamid, Liam, Asaam, Hameln, Tambuur, Kharam
+[UR] (7)
+	Chiisur, Huur, Kaaliburnos, Kuura, Paaura, Seejur, Tambuur
+[XI] (7)
+	Daiamid, Fushai, Leikab, Aiowa, Koi, Teigor, Triikor
+[IN] (7)
+	Doine, Ferin, Silumiin, Frein, Jiin, Saarkin, Shin
+[ER] (7)
+	Ferin, Ferriil, Per, Seera, Teer, Veer, Terah
+[UN] (7)
+	Hunon, Drun, Kuun, Lungma, Ruun, Suungo, Yuun
+[XA] (6)
+	Albegiido, Aaid, Aart, Aiowa, Arban, Asaam
+[IM] (6)
+	Gritiidim, Kim, Selim, Siidim, Siim, Siima
+[EL] (5)
+	Raakel, Selim, Tel, Hameln, Kaalel
+[EN] (5)
+	Gaalsien, Feng, Gren, Sojent, Ten
+[XTH] (5)
+	Kiith, Mevath, Koreth, Jadeth, Malketh
+[AH] (5)
+	Jasah, Kah, Klah, Mholah, Terah
+[XRK] (4)
+	Fiirkan, Kaark, Kudaark, Saarkin
+[XSH] (4)
+	Fushai, Kushan, Bushan, Heeshk
+[IF] (4)
+	Ifriit, Riif, Tiifal, Iifrit
+[ET] (4)
+	S’jet, Ett, Jet, Toet
+[IS] (3)
+	Chiisur, Variis, Tanis
+[AS] (3)
+	Diirvaas, Jasah, Talas
+[USH] (3)
+	Fushai, Kushan, Bushan
+[IT] (3)
+	Gritiidim, Ifriit, Iifrit
+[UK] (3)
+	Haarsuk, Sajuuk, Koruk
+[ON] (3)
+	Hunon, Khontala, Kona
+[UL] (3)
+	Jaakul, Jakuul, Thul
+[AB] (3)
+	Leikab, Naabal, Naab
+[IL] (2)
+	Ferriil, Kriil
+[IK] (2)
+	Leikab, Triikor
+[AG] (2)
+	Magann, Sagald
+[ACH] (2)
+	Raachok, Maach
+[OB] (2)
+	Soban, Toba
+[XAA] (2)
+	Aaid, Aart
+[EH] (2)
+	Eh, Eheb
+[XE] (2)
+	Eheb, Ett
+[XNG] (2)
+	Feng, Suungo
+[IG] (2)
+	Gig, Teigor
+[UM] (2)
+	Korum, Sarum
+[OT] (1)
+	Chak'm'Hot
+[ANN] (1)
+	Magann
+[EV] (1)
+	Mevath
+[AT] (1)
+	Miirpat
+[OK] (1)
+	Raachok
+[ALD] (1)
+	Sagald
+[ALL] (1)
+	Salla
+[OM] (1)
+	Somtaaw
+[AW] (1)
+	Somtaaw
+[ART] (1)
+	Aart
+[OW] (1)
+	Aiowa
+[ARB] (1)
+	Arban
+[ALH] (1)
+	Balhi
+[AV] (1)
+	Dava
+[A] (1)
+	Dava
+[EB] (1)
+	Eheb
+[ETT] (1)
+	Ett
+[ARR] (1)
+	Farr
+[ELN] (1)
+	Hameln
+[XSHK] (1)
+	Heeshk
+[OS] (1)
+	Kaaliburnos
+[URN] (1)
+	Kaaliburnos
+[UNG] (1)
+	Lungma
+[OL] (1)
+	Mholah
+[ORRH] (1)
+	Morrh
+[ITZ] (1)
+	Nitz
+[EJ] (1)
+	Seejur
+[US] (1)
+	Shuus
+[OJ] (1)
+	Sojent
+[ENT] (1)
+	Sojent
+[UW] (1)
+	Thuuw
+[ENK] (1)
+	Vhenk
+[AD] (1)
+	Jadeth
+[ALK] (1)
+	Malketh

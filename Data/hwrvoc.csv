@@ -1,0 +1,31 @@
+Word,Type,Origin,Source,Ending,Parts,Vowels,Consonants,Structure,Comments
+Abaard,city,"a town with S'jetti center, Gaalsien demolished",HWR,,"xa,ab,ba,ar,ard","a,aa","b,r,d",XY-XYYZ,
+Ajora,name,"Person, Ajora S'jet, mother of Karan S'jet",HWR,a,"xa,aj,jo,or","a,o","j,r",XY-XYZ,Jora (HWC) - Ajora (HWR)
+Amariid,location,"Kharak location, Amariid Flats - The 2nd Ferin Sha",HWR,,"xa,am,ma,ar,ri,id","a,i,ii","m,r,d",XY-XY-XYYZ,
+Atarad,kiith,"Kiith, Atarad, a large Southern kiith",HWR,,"xa,at,ta,ar,ra,ad",a,"t,r,d","XYZ-YZ-YZ,XY-XYZ-YZ,XY-XY-XYZ",
+Ataral,name,"Person, Ataral Naabal-Sa (AHL 0)",HWR,,"xa,at,ta,ar,ra,al",a,"t,r,l","XYZ-YZ-YZ,XY-XYZ-YZ,XY-XY-XYZ",
+Atekh,city,"City of Kharak, Khar-Atekh, a city with S'jetti center",HWR,,"xa, at,te,ekh","a,e","t,kh","XY-XYZ,XYZ-YZ",
+Balel,kiith,"Kiith, Balel, an enemy of kiith Lehi, ally of Siidim",HWR,,"ba,al,el","a,e","b,l",XYZ-YZ,
+Dassar,location,"Kharak location, Dassar Grasslands of Kiith S'jet",HWR,,"da,as,sa,ar",a,"d,s,r",XYZ-XYZ,Dasaar would be better
+Emilia,name,"Person, Emilia Somtaaw, Fleet Intelligence Officer",HWR,,"xe,em,mi,il,li,ia","e,i,a","m,l",XY-XYZ,"Ancient Roman name, miscast"
+Kah’a,culture,"Culture, Gaalsien Decree of Kah’a",HWR,a,"ka,ah,kha,xa",a,"k,h",XYZ,
+Kinsk,name,"Person, Cynsk S'jet, The Voice of Fleet Intelligence (KDS 1216)",HWR,,"ki,in,insk",i,"k,n,s,k",XYZ,
+Lehi,kiith,"Kiith, Lehi, Soban The Red's previous kiith",HWR,i,"le,eh","e,i","l,h",XYZ,
+Maora,name,"Person, Maora Hraal-Sa (first Hraal-Sa?)",HWR,a,"ma,or","a,o","m,r",XYYZ,ao is a something new
+Mataar,city,"Kharak city, Mataar, Siidim capital",HWR,,"ma,ta,ar","a,aa","m,t,r",XY-XYYZ,
+Matara,kiith,"Kiith, Matara, ally of Siidim",HWR,a,"ma,at,ta,ar",a,"m,t,r","XYZ-XZ,XY-XYZ",
+Naael,kiith,"Kiith, a large Southern kiith",HWR,,"na, ae,el","a,aa,ae,e","n,l",XYYYZ,
+Sadaar,ship,"KSN ship, Sadaar, Kiith Liir-Hra first space plane (KDS 1106)",HWR,,"sa,da,ar","a,aa","s,d,r",XY-XYYZ,
+Sadsaior,city,"Kharak city, Sadsaior, a town with S'jetti center",HWR,,"sa,ad,sa,xi,or","a,i,o","s,d,r",XYZ-XYYYZ,Sadsayor? Ayova?
+Sasaraad,name,"Person, Sasaraad Siidim-Sa, new doctrine inventer (KDS ~450)",HWR,,"sa,sa,ra,ad","a,aa","s,r,d",XY-XY-XYYZ,"An option - SaSa-First of the First, Raad - full of RA // shining?"
+Sorjan,name,"Person, Sorjan Soban-Sa, KDS 1216",HWR,,"so,or,ja,an","o,a","s,r,j,n",XYZ-XYZ,
+Jaanah,deity,"Deity, Jaanah, an ancient god of accord and trade",HWR,,"ja,an,ah","aa,a","j,n,h",XYYZ-YZ,
+Akarda,name,"Person, Akarda, Commander, died in TDN Frigate Salvage operation",HWR-S,a,"xa,ak,ka,ar,ard",a,"k,r,d","XYZ-YZ,XY-XYZ,XYZ-YZ-XY,XY-XYZ-XY",
+Jonas,name,"Person, Johnas, Fleet Commander, investigator",HWR-S,,"jo,on,na,as","o,a","j,n,s","XYZ-YZ, XY-XYZ",
+Kassalid,name,"Kassalid Siidim, 1 of 4 Siidim Commanders",HWR-S,,"ka,as,sa,al,id","a,i","k,s,ss,l,d",XYZ-XYZ-YZ,
+Kassandra,name,"Person, Cassandra S'jet, xeno-archeologist, cryptographer",HWR-S,a,"ka,as,sa,an,dra,and,ra",a,"k,s,ss,n,d,r","XYZ-XYZ-XY,XYZ-XYZ","Greek name, miscast. Kassandra? Kassarda? Kassandra - Kassalid - Sasaraad, something's here"
+Marala,name,"Person, Marala Siidim, daugher of the Siidim-Sa (KDS 1216)",HWR-S,a,"ma,ar,ra,al",a,"m,r,l","XYZ-YZ,XY-XYZ",
+Maitar,name,"Person, Mytar Hraal, production consultant (KDS 1216)",HWR-S,,"ma,xi,ta,ar","a,i","m,t,r","XY-XYZ,XYi-XYZ",Mitar? Maitar?
+Nissa,name,"Person, Nissa Hraal, moral and adminstration officer (KDS 1216)",HWR-S,a,"ni,is,iss,sa","i,a","n,s,ss","XYZ,XYZ-XY","Elvish names, hah? :)"
+Ruel,name,"Person, Honorable Ruel S'jet, formidable judge",HWR-S,,"ru,el","u,e","r,l",XYYZ,
+Taaran,name,"Person, Taaran Soban-Sa, Senior Cadet at ~KDS 1216",HWR-S,,"ta,ar,an","a,aa","t,r,n",XYYZ-YZ,

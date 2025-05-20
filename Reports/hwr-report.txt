@@ -1,0 +1,173 @@
+
+=== VOWELS By Frequency ===
+a : 27
+i : 8
+aa : 7
+e : 6
+o : 5
+ii : 1
+ae : 1
+u : 1
+
+=== CONSONANTS By Frequency ===
+r : 19
+d : 10
+s : 10
+l : 8
+n : 8
+m : 7
+t : 7
+k : 6
+j : 4
+h : 3
+ss : 3
+b : 2
+kh : 1
+
+=== WORD STRUCTURES ===
+[XY-XYZ] (8)
+	Ajora, Atekh, Emilia, Matara, Akarda, Jonas, Marala, Maitar
+[XYZ-YZ] (5)
+	Atekh, Balel, Akarda, Jonas, Marala
+[XYZ] (4)
+	Kah’a, Kinsk, Lehi, Nissa
+[XY-XYYZ] (3)
+	Abaard, Mataar, Sadaar
+[XYZ-XYZ] (3)
+	Dassar, Sorjan, Kassandra
+[XY-XY-XYYZ] (2)
+	Amariid, Sasaraad
+[XYZ-YZ-YZ] (2)
+	Atarad, Ataral
+[XY-XYZ-YZ] (2)
+	Atarad, Ataral
+[XY-XY-XYZ] (2)
+	Atarad, Ataral
+[XYYZ] (2)
+	Maora, Ruel
+[XYYZ-YZ] (2)
+	Jaanah, Taaran
+[XYZ-XZ] (1)
+	Matara
+[XYYYZ] (1)
+	Naael
+[XYZ-XYYYZ] (1)
+	Sadsaior
+[XYZ-YZ-XY] (1)
+	Akarda
+[XY-XYZ-XY] (1)
+	Akarda
+[XYZ-XYZ-YZ] (1)
+	Kassalid
+[XYZ-XYZ-XY] (1)
+	Kassandra
+[XYI-XYZ] (1)
+	Maitar
+[XYZ-XY] (1)
+	Nissa
+
+=== ROOTS ===
+[SA] (7)
+	Dassar, Sadaar, Sadsaior, Sasaraad, Kassalid, Kassandra, Nissa
+[MA] (6)
+	Amariid, Maora, Mataar, Matara, Marala, Maitar
+[TA] (6)
+	Atarad, Ataral, Mataar, Matara, Maitar, Taaran
+[RA] (5)
+	Atarad, Ataral, Sasaraad, Kassandra, Marala
+[KA] (4)
+	Kah’a, Akarda, Kassalid, Kassandra
+[BA] (2)
+	Abaard, Balel
+[JO] (2)
+	Ajora, Jonas
+[DA] (2)
+	Dassar, Sadaar
+[NA] (2)
+	Naael, Jonas
+[JA] (2)
+	Sorjan, Jaanah
+[RI] (1)
+	Amariid
+[TE] (1)
+	Atekh
+[MI] (1)
+	Emilia
+[LI] (1)
+	Emilia
+[KHA] (1)
+	Kah’a
+[KI] (1)
+	Kinsk
+[LE] (1)
+	Lehi
+[SO] (1)
+	Sorjan
+[DRA] (1)
+	Kassandra
+[NI] (1)
+	Nissa
+[RU] (1)
+	Ruel
+
+=== SUFFIXES ===
+[AR] (12)
+	Abaard, Amariid, Atarad, Ataral, Dassar, Mataar, Matara, Sadaar, Akarda, Marala, Maitar, Taaran
+[XA] (8)
+	Abaard, Ajora, Amariid, Atarad, Ataral, Atekh, Kah’a, Akarda
+[OR] (4)
+	Ajora, Maora, Sadsaior, Sorjan
+[AT] (4)
+	Atarad, Ataral, Atekh, Matara
+[AL] (4)
+	Ataral, Balel, Kassalid, Marala
+[AS] (4)
+	Dassar, Jonas, Kassalid, Kassandra
+[AN] (4)
+	Sorjan, Jaanah, Kassandra, Taaran
+[AD] (3)
+	Atarad, Sadsaior, Sasaraad
+[EL] (3)
+	Balel, Naael, Ruel
+[ARD] (2)
+	Abaard, Akarda
+[ID] (2)
+	Amariid, Kassalid
+[AH] (2)
+	Kah’a, Jaanah
+[XI] (2)
+	Sadsaior, Maitar
+[AB] (1)
+	Abaard
+[AJ] (1)
+	Ajora
+[AM] (1)
+	Amariid
+[EKH] (1)
+	Atekh
+[XE] (1)
+	Emilia
+[EM] (1)
+	Emilia
+[IL] (1)
+	Emilia
+[IA] (1)
+	Emilia
+[IN] (1)
+	Kinsk
+[INSK] (1)
+	Kinsk
+[EH] (1)
+	Lehi
+[AE] (1)
+	Naael
+[AK] (1)
+	Akarda
+[ON] (1)
+	Jonas
+[AND] (1)
+	Kassandra
+[IS] (1)
+	Nissa
+[ISS] (1)
+	Nissa
